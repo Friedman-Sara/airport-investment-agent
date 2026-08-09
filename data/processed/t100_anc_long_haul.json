@@ -1,0 +1,142 @@
+{
+  "airport_code": "ANC",
+  "metric": "long_haul_departure_percentage",
+  "period_start": "2025-05",
+  "period_end": "2026-04",
+  "months_returned": 12,
+  "definition": {
+    "service_class": "F",
+    "service_class_description": "Scheduled passenger/cargo service",
+    "minimum_distance_miles": 3000,
+    "flight_weight": "DEPARTURES_PERFORMED"
+  },
+  "all_scheduled_passenger_departures": 35415,
+  "long_haul_departures": 1023,
+  "long_haul_percentage": 2.89,
+  "all_scheduled_passengers": 2645684,
+  "long_haul_passengers": 168906,
+  "matching_source_rows": 1415,
+  "long_haul_routes": [
+    {
+      "destination": "DFW",
+      "destination_city": "Dallas/Fort Worth, TX",
+      "distance_miles": 3043,
+      "departures_performed": 376,
+      "passengers": 67594
+    },
+    {
+      "destination": "ATL",
+      "destination_city": "Atlanta, GA",
+      "distance_miles": 3417,
+      "departures_performed": 152,
+      "passengers": 29075
+    },
+    {
+      "destination": "IAH",
+      "destination_city": "Houston, TX",
+      "distance_miles": 3266,
+      "departures_performed": 127,
+      "passengers": 16911
+    },
+    {
+      "destination": "IAD",
+      "destination_city": "Washington, DC",
+      "distance_miles": 3356,
+      "departures_performed": 107,
+      "passengers": 14716
+    },
+    {
+      "destination": "EWR",
+      "destination_city": "Newark, NJ",
+      "distance_miles": 3370,
+      "departures_performed": 101,
+      "passengers": 12831
+    },
+    {
+      "destination": "FRA",
+      "destination_city": "Frankfurt, Germany",
+      "distance_miles": 4677,
+      "departures_performed": 77,
+      "passengers": 16296
+    },
+    {
+      "destination": "JFK",
+      "destination_city": "New York, NY",
+      "distance_miles": 3386,
+      "departures_performed": 68,
+      "passengers": 8262
+    },
+    {
+      "destination": "HND",
+      "destination_city": "Tokyo, Japan",
+      "distance_miles": 3466,
+      "departures_performed": 6,
+      "passengers": 1393
+    },
+    {
+      "destination": "ICN",
+      "destination_city": "Seoul, South Korea",
+      "distance_miles": 3799,
+      "departures_performed": 3,
+      "passengers": 642
+    },
+    {
+      "destination": "IND",
+      "destination_city": "Indianapolis, IN",
+      "distance_miles": 3020,
+      "departures_performed": 1,
+      "passengers": 135
+    },
+    {
+      "destination": "PVG",
+      "destination_city": "Shanghai, China",
+      "distance_miles": 4308,
+      "departures_performed": 1,
+      "passengers": 138
+    },
+    {
+      "destination": "HKG",
+      "destination_city": "Hong Kong, Hong Kong",
+      "distance_miles": 5081,
+      "departures_performed": 1,
+      "passengers": 146
+    },
+    {
+      "destination": "TPE",
+      "destination_city": "Taipei, Taiwan",
+      "distance_miles": 4680,
+      "departures_performed": 1,
+      "passengers": 297
+    },
+    {
+      "destination": "HEL",
+      "destination_city": "Helsinki, Finland",
+      "distance_miles": 4053,
+      "departures_performed": 1,
+      "passengers": 132
+    },
+    {
+      "destination": "MNL",
+      "destination_city": "Manila, Philippines",
+      "distance_miles": 5313,
+      "departures_performed": 1,
+      "passengers": 338
+    }
+  ],
+  "source": {
+    "publisher": "U.S. Bureau of Transportation Statistics",
+    "dataset": "T-100 Segment (All Carriers)",
+    "input_files": [
+      "data\\raw\\t100_routes_2025_raw.csv",
+      "data\\raw\\t100_routes_2026_raw.csv"
+    ],
+    "access_method": "Official public bulk download"
+  },
+  "assumptions": [
+    "Long-haul means a nonstop segment of at least 3,000 statute miles.",
+    "Only service class F is included to exclude all-cargo and nonscheduled service.",
+    "The percentage is weighted by performed departures, not CSV row count.",
+    "This metric describes flight mix, not airport profitability by itself."
+  ],
+  "processed_at": "2026-08-09T14:35:12.254134+00:00"
+}

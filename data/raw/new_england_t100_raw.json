@@ -1,0 +1,1538 @@
+[
+  {
+    "origin_airport_code": "BDL",
+    "origin_airport_name": "Bradley International (BDL)",
+    "reporting_month": "2024-05-01T00:00:00.000",
+    "total_departures": "2599",
+    "total_passengers": "286458",
+    "total_seats": "341485"
+  },
+  {
+    "origin_airport_code": "BDL",
+    "origin_airport_name": "Bradley International (BDL)",
+    "reporting_month": "2024-06-01T00:00:00.000",
+    "total_departures": "2608",
+    "total_passengers": "289260",
+    "total_seats": "345318"
+  },
+  {
+    "origin_airport_code": "BDL",
+    "origin_airport_name": "Bradley International (BDL)",
+    "reporting_month": "2024-07-01T00:00:00.000",
+    "total_departures": "2657",
+    "total_passengers": "296947",
+    "total_seats": "350836"
+  },
+  {
+    "origin_airport_code": "BDL",
+    "origin_airport_name": "Bradley International (BDL)",
+    "reporting_month": "2024-08-01T00:00:00.000",
+    "total_departures": "2781",
+    "total_passengers": "314838",
+    "total_seats": "378225"
+  },
+  {
+    "origin_airport_code": "BDL",
+    "origin_airport_name": "Bradley International (BDL)",
+    "reporting_month": "2024-09-01T00:00:00.000",
+    "total_departures": "2509",
+    "total_passengers": "256541",
+    "total_seats": "331977"
+  },
+  {
+    "origin_airport_code": "BDL",
+    "origin_airport_name": "Bradley International (BDL)",
+    "reporting_month": "2024-10-01T00:00:00.000",
+    "total_departures": "2655",
+    "total_passengers": "293834",
+    "total_seats": "358286"
+  },
+  {
+    "origin_airport_code": "BDL",
+    "origin_airport_name": "Bradley International (BDL)",
+    "reporting_month": "2024-11-01T00:00:00.000",
+    "total_departures": "2567",
+    "total_passengers": "269148",
+    "total_seats": "344762"
+  },
+  {
+    "origin_airport_code": "BDL",
+    "origin_airport_name": "Bradley International (BDL)",
+    "reporting_month": "2024-12-01T00:00:00.000",
+    "total_departures": "2700",
+    "total_passengers": "294113",
+    "total_seats": "351459"
+  },
+  {
+    "origin_airport_code": "BDL",
+    "origin_airport_name": "Bradley International (BDL)",
+    "reporting_month": "2025-01-01T00:00:00.000",
+    "total_departures": "2397",
+    "total_passengers": "226406",
+    "total_seats": "312529"
+  },
+  {
+    "origin_airport_code": "BDL",
+    "origin_airport_name": "Bradley International (BDL)",
+    "reporting_month": "2025-02-01T00:00:00.000",
+    "total_departures": "2327",
+    "total_passengers": "230737",
+    "total_seats": "302442"
+  },
+  {
+    "origin_airport_code": "BDL",
+    "origin_airport_name": "Bradley International (BDL)",
+    "reporting_month": "2025-03-01T00:00:00.000",
+    "total_departures": "2696",
+    "total_passengers": "268975",
+    "total_seats": "359102"
+  },
+  {
+    "origin_airport_code": "BDL",
+    "origin_airport_name": "Bradley International (BDL)",
+    "reporting_month": "2025-04-01T00:00:00.000",
+    "total_departures": "2820",
+    "total_passengers": "301522",
+    "total_seats": "379854"
+  },
+  {
+    "origin_airport_code": "BDL",
+    "origin_airport_name": "Bradley International (BDL)",
+    "reporting_month": "2025-05-01T00:00:00.000",
+    "total_departures": "2848",
+    "total_passengers": "297743",
+    "total_seats": "376137"
+  },
+  {
+    "origin_airport_code": "BDL",
+    "origin_airport_name": "Bradley International (BDL)",
+    "reporting_month": "2025-06-01T00:00:00.000",
+    "total_departures": "2778",
+    "total_passengers": "293291",
+    "total_seats": "359752"
+  },
+  {
+    "origin_airport_code": "BDL",
+    "origin_airport_name": "Bradley International (BDL)",
+    "reporting_month": "2025-07-01T00:00:00.000",
+    "total_departures": "2799",
+    "total_passengers": "302368",
+    "total_seats": "357215"
+  },
+  {
+    "origin_airport_code": "BDL",
+    "origin_airport_name": "Bradley International (BDL)",
+    "reporting_month": "2025-08-01T00:00:00.000",
+    "total_departures": "2768",
+    "total_passengers": "304536",
+    "total_seats": "365490"
+  },
+  {
+    "origin_airport_code": "BDL",
+    "origin_airport_name": "Bradley International (BDL)",
+    "reporting_month": "2025-09-01T00:00:00.000",
+    "total_departures": "2370",
+    "total_passengers": "251465",
+    "total_seats": "311444"
+  },
+  {
+    "origin_airport_code": "BDL",
+    "origin_airport_name": "Bradley International (BDL)",
+    "reporting_month": "2025-10-01T00:00:00.000",
+    "total_departures": "2644",
+    "total_passengers": "291952",
+    "total_seats": "340951"
+  },
+  {
+    "origin_airport_code": "BDL",
+    "origin_airport_name": "Bradley International (BDL)",
+    "reporting_month": "2025-11-01T00:00:00.000",
+    "total_departures": "2535",
+    "total_passengers": "250581",
+    "total_seats": "320799"
+  },
+  {
+    "origin_airport_code": "BDL",
+    "origin_airport_name": "Bradley International (BDL)",
+    "reporting_month": "2025-12-01T00:00:00.000",
+    "total_departures": "2595",
+    "total_passengers": "269610",
+    "total_seats": "324010"
+  },
+  {
+    "origin_airport_code": "BDL",
+    "origin_airport_name": "Bradley International (BDL)",
+    "reporting_month": "2026-01-01T00:00:00.000",
+    "total_departures": "2170",
+    "total_passengers": "212123",
+    "total_seats": "275685"
+  },
+  {
+    "origin_airport_code": "BDL",
+    "origin_airport_name": "Bradley International (BDL)",
+    "reporting_month": "2026-02-01T00:00:00.000",
+    "total_departures": "2156",
+    "total_passengers": "226913",
+    "total_seats": "279864"
+  },
+  {
+    "origin_airport_code": "BDL",
+    "origin_airport_name": "Bradley International (BDL)",
+    "reporting_month": "2026-03-01T00:00:00.000",
+    "total_departures": "2554",
+    "total_passengers": "263428",
+    "total_seats": "334489"
+  },
+  {
+    "origin_airport_code": "BDL",
+    "origin_airport_name": "Bradley International (BDL)",
+    "reporting_month": "2026-04-01T00:00:00.000",
+    "total_departures": "2712",
+    "total_passengers": "287253",
+    "total_seats": "350806"
+  },
+  {
+    "origin_airport_code": "BOS",
+    "origin_airport_name": "Logan International (BOS)",
+    "reporting_month": "2024-05-01T00:00:00.000",
+    "total_departures": "16788",
+    "total_passengers": "1918044",
+    "total_seats": "2274160"
+  },
+  {
+    "origin_airport_code": "BOS",
+    "origin_airport_name": "Logan International (BOS)",
+    "reporting_month": "2024-06-01T00:00:00.000",
+    "total_departures": "16897",
+    "total_passengers": "1969017",
+    "total_seats": "2294272"
+  },
+  {
+    "origin_airport_code": "BOS",
+    "origin_airport_name": "Logan International (BOS)",
+    "reporting_month": "2024-07-01T00:00:00.000",
+    "total_departures": "17769",
+    "total_passengers": "2038593",
+    "total_seats": "2372532"
+  },
+  {
+    "origin_airport_code": "BOS",
+    "origin_airport_name": "Logan International (BOS)",
+    "reporting_month": "2024-08-01T00:00:00.000",
+    "total_departures": "17986",
+    "total_passengers": "2062262",
+    "total_seats": "2417364"
+  },
+  {
+    "origin_airport_code": "BOS",
+    "origin_airport_name": "Logan International (BOS)",
+    "reporting_month": "2024-09-01T00:00:00.000",
+    "total_departures": "17203",
+    "total_passengers": "1811782",
+    "total_seats": "2281799"
+  },
+  {
+    "origin_airport_code": "BOS",
+    "origin_airport_name": "Logan International (BOS)",
+    "reporting_month": "2024-10-01T00:00:00.000",
+    "total_departures": "17377",
+    "total_passengers": "1991427",
+    "total_seats": "2341822"
+  },
+  {
+    "origin_airport_code": "BOS",
+    "origin_airport_name": "Logan International (BOS)",
+    "reporting_month": "2024-11-01T00:00:00.000",
+    "total_departures": "15388",
+    "total_passengers": "1668299",
+    "total_seats": "2063666"
+  },
+  {
+    "origin_airport_code": "BOS",
+    "origin_airport_name": "Logan International (BOS)",
+    "reporting_month": "2024-12-01T00:00:00.000",
+    "total_departures": "15422",
+    "total_passengers": "1767981",
+    "total_seats": "2088048"
+  },
+  {
+    "origin_airport_code": "BOS",
+    "origin_airport_name": "Logan International (BOS)",
+    "reporting_month": "2025-01-01T00:00:00.000",
+    "total_departures": "13757",
+    "total_passengers": "1352775",
+    "total_seats": "1836406"
+  },
+  {
+    "origin_airport_code": "BOS",
+    "origin_airport_name": "Logan International (BOS)",
+    "reporting_month": "2025-02-01T00:00:00.000",
+    "total_departures": "12973",
+    "total_passengers": "1388396",
+    "total_seats": "1756918"
+  },
+  {
+    "origin_airport_code": "BOS",
+    "origin_airport_name": "Logan International (BOS)",
+    "reporting_month": "2025-03-01T00:00:00.000",
+    "total_departures": "15978",
+    "total_passengers": "1693662",
+    "total_seats": "2183922"
+  },
+  {
+    "origin_airport_code": "BOS",
+    "origin_airport_name": "Logan International (BOS)",
+    "reporting_month": "2025-04-01T00:00:00.000",
+    "total_departures": "16333",
+    "total_passengers": "1826618",
+    "total_seats": "2266476"
+  },
+  {
+    "origin_airport_code": "BOS",
+    "origin_airport_name": "Logan International (BOS)",
+    "reporting_month": "2025-05-01T00:00:00.000",
+    "total_departures": "16897",
+    "total_passengers": "1881931",
+    "total_seats": "2314739"
+  },
+  {
+    "origin_airport_code": "BOS",
+    "origin_airport_name": "Logan International (BOS)",
+    "reporting_month": "2025-06-01T00:00:00.000",
+    "total_departures": "16966",
+    "total_passengers": "1948188",
+    "total_seats": "2294163"
+  },
+  {
+    "origin_airport_code": "BOS",
+    "origin_airport_name": "Logan International (BOS)",
+    "reporting_month": "2025-07-01T00:00:00.000",
+    "total_departures": "17970",
+    "total_passengers": "2026031",
+    "total_seats": "2380132"
+  },
+  {
+    "origin_airport_code": "BOS",
+    "origin_airport_name": "Logan International (BOS)",
+    "reporting_month": "2025-08-01T00:00:00.000",
+    "total_departures": "17989",
+    "total_passengers": "2004088",
+    "total_seats": "2344399"
+  },
+  {
+    "origin_airport_code": "BOS",
+    "origin_airport_name": "Logan International (BOS)",
+    "reporting_month": "2025-09-01T00:00:00.000",
+    "total_departures": "16290",
+    "total_passengers": "1741174",
+    "total_seats": "2160727"
+  },
+  {
+    "origin_airport_code": "BOS",
+    "origin_airport_name": "Logan International (BOS)",
+    "reporting_month": "2025-10-01T00:00:00.000",
+    "total_departures": "16935",
+    "total_passengers": "1944286",
+    "total_seats": "2307019"
+  },
+  {
+    "origin_airport_code": "BOS",
+    "origin_airport_name": "Logan International (BOS)",
+    "reporting_month": "2025-11-01T00:00:00.000",
+    "total_departures": "14647",
+    "total_passengers": "1591829",
+    "total_seats": "1992832"
+  },
+  {
+    "origin_airport_code": "BOS",
+    "origin_airport_name": "Logan International (BOS)",
+    "reporting_month": "2025-12-01T00:00:00.000",
+    "total_departures": "14811",
+    "total_passengers": "1707002",
+    "total_seats": "2029616"
+  },
+  {
+    "origin_airport_code": "BOS",
+    "origin_airport_name": "Logan International (BOS)",
+    "reporting_month": "2026-01-01T00:00:00.000",
+    "total_departures": "12779",
+    "total_passengers": "1290075",
+    "total_seats": "1738951"
+  },
+  {
+    "origin_airport_code": "BOS",
+    "origin_airport_name": "Logan International (BOS)",
+    "reporting_month": "2026-02-01T00:00:00.000",
+    "total_departures": "12410",
+    "total_passengers": "1337539",
+    "total_seats": "1685850"
+  },
+  {
+    "origin_airport_code": "BOS",
+    "origin_airport_name": "Logan International (BOS)",
+    "reporting_month": "2026-03-01T00:00:00.000",
+    "total_departures": "15556",
+    "total_passengers": "1670139",
+    "total_seats": "2113875"
+  },
+  {
+    "origin_airport_code": "BOS",
+    "origin_airport_name": "Logan International (BOS)",
+    "reporting_month": "2026-04-01T00:00:00.000",
+    "total_departures": "16495",
+    "total_passengers": "1841463",
+    "total_seats": "2313007"
+  },
+  {
+    "origin_airport_code": "BTV",
+    "origin_airport_name": "Patrick Leahy Burlington International (BTV)",
+    "reporting_month": "2024-05-01T00:00:00.000",
+    "total_departures": "747",
+    "total_passengers": "49993",
+    "total_seats": "63731"
+  },
+  {
+    "origin_airport_code": "BTV",
+    "origin_airport_name": "Patrick Leahy Burlington International (BTV)",
+    "reporting_month": "2024-06-01T00:00:00.000",
+    "total_departures": "874",
+    "total_passengers": "59181",
+    "total_seats": "77392"
+  },
+  {
+    "origin_airport_code": "BTV",
+    "origin_airport_name": "Patrick Leahy Burlington International (BTV)",
+    "reporting_month": "2024-07-01T00:00:00.000",
+    "total_departures": "889",
+    "total_passengers": "66902",
+    "total_seats": "82491"
+  },
+  {
+    "origin_airport_code": "BTV",
+    "origin_airport_name": "Patrick Leahy Burlington International (BTV)",
+    "reporting_month": "2024-08-01T00:00:00.000",
+    "total_departures": "952",
+    "total_passengers": "71467",
+    "total_seats": "89501"
+  },
+  {
+    "origin_airport_code": "BTV",
+    "origin_airport_name": "Patrick Leahy Burlington International (BTV)",
+    "reporting_month": "2024-09-01T00:00:00.000",
+    "total_departures": "1002",
+    "total_passengers": "65998",
+    "total_seats": "91867"
+  },
+  {
+    "origin_airport_code": "BTV",
+    "origin_airport_name": "Patrick Leahy Burlington International (BTV)",
+    "reporting_month": "2024-10-01T00:00:00.000",
+    "total_departures": "1060",
+    "total_passengers": "74742",
+    "total_seats": "94377"
+  },
+  {
+    "origin_airport_code": "BTV",
+    "origin_airport_name": "Patrick Leahy Burlington International (BTV)",
+    "reporting_month": "2024-11-01T00:00:00.000",
+    "total_departures": "768",
+    "total_passengers": "51203",
+    "total_seats": "67294"
+  },
+  {
+    "origin_airport_code": "BTV",
+    "origin_airport_name": "Patrick Leahy Burlington International (BTV)",
+    "reporting_month": "2024-12-01T00:00:00.000",
+    "total_departures": "798",
+    "total_passengers": "56436",
+    "total_seats": "72360"
+  },
+  {
+    "origin_airport_code": "BTV",
+    "origin_airport_name": "Patrick Leahy Burlington International (BTV)",
+    "reporting_month": "2025-01-01T00:00:00.000",
+    "total_departures": "746",
+    "total_passengers": "49282",
+    "total_seats": "67837"
+  },
+  {
+    "origin_airport_code": "BTV",
+    "origin_airport_name": "Patrick Leahy Burlington International (BTV)",
+    "reporting_month": "2025-02-01T00:00:00.000",
+    "total_departures": "648",
+    "total_passengers": "48905",
+    "total_seats": "58987"
+  },
+  {
+    "origin_airport_code": "BTV",
+    "origin_airport_name": "Patrick Leahy Burlington International (BTV)",
+    "reporting_month": "2025-03-01T00:00:00.000",
+    "total_departures": "826",
+    "total_passengers": "55238",
+    "total_seats": "73593"
+  },
+  {
+    "origin_airport_code": "BTV",
+    "origin_airport_name": "Patrick Leahy Burlington International (BTV)",
+    "reporting_month": "2025-04-01T00:00:00.000",
+    "total_departures": "836",
+    "total_passengers": "53646",
+    "total_seats": "72377"
+  },
+  {
+    "origin_airport_code": "BTV",
+    "origin_airport_name": "Patrick Leahy Burlington International (BTV)",
+    "reporting_month": "2025-05-01T00:00:00.000",
+    "total_departures": "853",
+    "total_passengers": "54662",
+    "total_seats": "69753"
+  },
+  {
+    "origin_airport_code": "BTV",
+    "origin_airport_name": "Patrick Leahy Burlington International (BTV)",
+    "reporting_month": "2025-06-01T00:00:00.000",
+    "total_departures": "869",
+    "total_passengers": "60443",
+    "total_seats": "73835"
+  },
+  {
+    "origin_airport_code": "BTV",
+    "origin_airport_name": "Patrick Leahy Burlington International (BTV)",
+    "reporting_month": "2025-07-01T00:00:00.000",
+    "total_departures": "891",
+    "total_passengers": "71828",
+    "total_seats": "81111"
+  },
+  {
+    "origin_airport_code": "BTV",
+    "origin_airport_name": "Patrick Leahy Burlington International (BTV)",
+    "reporting_month": "2025-08-01T00:00:00.000",
+    "total_departures": "931",
+    "total_passengers": "73209",
+    "total_seats": "83124"
+  },
+  {
+    "origin_airport_code": "BTV",
+    "origin_airport_name": "Patrick Leahy Burlington International (BTV)",
+    "reporting_month": "2025-09-01T00:00:00.000",
+    "total_departures": "875",
+    "total_passengers": "65175",
+    "total_seats": "80504"
+  },
+  {
+    "origin_airport_code": "BTV",
+    "origin_airport_name": "Patrick Leahy Burlington International (BTV)",
+    "reporting_month": "2025-10-01T00:00:00.000",
+    "total_departures": "1022",
+    "total_passengers": "79157",
+    "total_seats": "91111"
+  },
+  {
+    "origin_airport_code": "BTV",
+    "origin_airport_name": "Patrick Leahy Burlington International (BTV)",
+    "reporting_month": "2025-11-01T00:00:00.000",
+    "total_departures": "725",
+    "total_passengers": "48606",
+    "total_seats": "62626"
+  },
+  {
+    "origin_airport_code": "BTV",
+    "origin_airport_name": "Patrick Leahy Burlington International (BTV)",
+    "reporting_month": "2025-12-01T00:00:00.000",
+    "total_departures": "725",
+    "total_passengers": "48965",
+    "total_seats": "57521"
+  },
+  {
+    "origin_airport_code": "BTV",
+    "origin_airport_name": "Patrick Leahy Burlington International (BTV)",
+    "reporting_month": "2026-01-01T00:00:00.000",
+    "total_departures": "684",
+    "total_passengers": "46165",
+    "total_seats": "55116"
+  },
+  {
+    "origin_airport_code": "BTV",
+    "origin_airport_name": "Patrick Leahy Burlington International (BTV)",
+    "reporting_month": "2026-02-01T00:00:00.000",
+    "total_departures": "669",
+    "total_passengers": "49016",
+    "total_seats": "58138"
+  },
+  {
+    "origin_airport_code": "BTV",
+    "origin_airport_name": "Patrick Leahy Burlington International (BTV)",
+    "reporting_month": "2026-03-01T00:00:00.000",
+    "total_departures": "751",
+    "total_passengers": "53021",
+    "total_seats": "65587"
+  },
+  {
+    "origin_airport_code": "BTV",
+    "origin_airport_name": "Patrick Leahy Burlington International (BTV)",
+    "reporting_month": "2026-04-01T00:00:00.000",
+    "total_departures": "852",
+    "total_passengers": "52380",
+    "total_seats": "68010"
+  },
+  {
+    "origin_airport_code": "HVN",
+    "origin_airport_name": "Tweed New Haven (HVN)",
+    "reporting_month": "2024-05-01T00:00:00.000",
+    "total_departures": "332",
+    "total_passengers": "44061",
+    "total_seats": "57344"
+  },
+  {
+    "origin_airport_code": "HVN",
+    "origin_airport_name": "Tweed New Haven (HVN)",
+    "reporting_month": "2024-06-01T00:00:00.000",
+    "total_departures": "373",
+    "total_passengers": "51508",
+    "total_seats": "64210"
+  },
+  {
+    "origin_airport_code": "HVN",
+    "origin_airport_name": "Tweed New Haven (HVN)",
+    "reporting_month": "2024-07-01T00:00:00.000",
+    "total_departures": "398",
+    "total_passengers": "57537",
+    "total_seats": "68917"
+  },
+  {
+    "origin_airport_code": "HVN",
+    "origin_airport_name": "Tweed New Haven (HVN)",
+    "reporting_month": "2024-08-01T00:00:00.000",
+    "total_departures": "422",
+    "total_passengers": "58440",
+    "total_seats": "72310"
+  },
+  {
+    "origin_airport_code": "HVN",
+    "origin_airport_name": "Tweed New Haven (HVN)",
+    "reporting_month": "2024-09-01T00:00:00.000",
+    "total_departures": "363",
+    "total_passengers": "42970",
+    "total_seats": "63044"
+  },
+  {
+    "origin_airport_code": "HVN",
+    "origin_airport_name": "Tweed New Haven (HVN)",
+    "reporting_month": "2024-10-01T00:00:00.000",
+    "total_departures": "378",
+    "total_passengers": "51700",
+    "total_seats": "66337"
+  },
+  {
+    "origin_airport_code": "HVN",
+    "origin_airport_name": "Tweed New Haven (HVN)",
+    "reporting_month": "2024-11-01T00:00:00.000",
+    "total_departures": "400",
+    "total_passengers": "52368",
+    "total_seats": "69503"
+  },
+  {
+    "origin_airport_code": "HVN",
+    "origin_airport_name": "Tweed New Haven (HVN)",
+    "reporting_month": "2024-12-01T00:00:00.000",
+    "total_departures": "458",
+    "total_passengers": "65936",
+    "total_seats": "77553"
+  },
+  {
+    "origin_airport_code": "HVN",
+    "origin_airport_name": "Tweed New Haven (HVN)",
+    "reporting_month": "2025-01-01T00:00:00.000",
+    "total_departures": "454",
+    "total_passengers": "50719",
+    "total_seats": "76106"
+  },
+  {
+    "origin_airport_code": "HVN",
+    "origin_airport_name": "Tweed New Haven (HVN)",
+    "reporting_month": "2025-02-01T00:00:00.000",
+    "total_departures": "490",
+    "total_passengers": "55056",
+    "total_seats": "80612"
+  },
+  {
+    "origin_airport_code": "HVN",
+    "origin_airport_name": "Tweed New Haven (HVN)",
+    "reporting_month": "2025-03-01T00:00:00.000",
+    "total_departures": "560",
+    "total_passengers": "66161",
+    "total_seats": "94046"
+  },
+  {
+    "origin_airport_code": "HVN",
+    "origin_airport_name": "Tweed New Haven (HVN)",
+    "reporting_month": "2025-04-01T00:00:00.000",
+    "total_departures": "557",
+    "total_passengers": "68995",
+    "total_seats": "92005"
+  },
+  {
+    "origin_airport_code": "HVN",
+    "origin_airport_name": "Tweed New Haven (HVN)",
+    "reporting_month": "2025-05-01T00:00:00.000",
+    "total_departures": "497",
+    "total_passengers": "58776",
+    "total_seats": "81425"
+  },
+  {
+    "origin_airport_code": "HVN",
+    "origin_airport_name": "Tweed New Haven (HVN)",
+    "reporting_month": "2025-06-01T00:00:00.000",
+    "total_departures": "520",
+    "total_passengers": "64159",
+    "total_seats": "84972"
+  },
+  {
+    "origin_airport_code": "HVN",
+    "origin_airport_name": "Tweed New Haven (HVN)",
+    "reporting_month": "2025-07-01T00:00:00.000",
+    "total_departures": "521",
+    "total_passengers": "68826",
+    "total_seats": "83191"
+  },
+  {
+    "origin_airport_code": "HVN",
+    "origin_airport_name": "Tweed New Haven (HVN)",
+    "reporting_month": "2025-08-01T00:00:00.000",
+    "total_departures": "552",
+    "total_passengers": "71729",
+    "total_seats": "88025"
+  },
+  {
+    "origin_airport_code": "HVN",
+    "origin_airport_name": "Tweed New Haven (HVN)",
+    "reporting_month": "2025-09-01T00:00:00.000",
+    "total_departures": "415",
+    "total_passengers": "46929",
+    "total_seats": "62608"
+  },
+  {
+    "origin_airport_code": "HVN",
+    "origin_airport_name": "Tweed New Haven (HVN)",
+    "reporting_month": "2025-10-01T00:00:00.000",
+    "total_departures": "477",
+    "total_passengers": "57634",
+    "total_seats": "73204"
+  },
+  {
+    "origin_airport_code": "HVN",
+    "origin_airport_name": "Tweed New Haven (HVN)",
+    "reporting_month": "2025-11-01T00:00:00.000",
+    "total_departures": "509",
+    "total_passengers": "60071",
+    "total_seats": "78637"
+  },
+  {
+    "origin_airport_code": "HVN",
+    "origin_airport_name": "Tweed New Haven (HVN)",
+    "reporting_month": "2025-12-01T00:00:00.000",
+    "total_departures": "543",
+    "total_passengers": "68763",
+    "total_seats": "85566"
+  },
+  {
+    "origin_airport_code": "HVN",
+    "origin_airport_name": "Tweed New Haven (HVN)",
+    "reporting_month": "2026-01-01T00:00:00.000",
+    "total_departures": "410",
+    "total_passengers": "45808",
+    "total_seats": "66019"
+  },
+  {
+    "origin_airport_code": "HVN",
+    "origin_airport_name": "Tweed New Haven (HVN)",
+    "reporting_month": "2026-02-01T00:00:00.000",
+    "total_departures": "400",
+    "total_passengers": "48931",
+    "total_seats": "65778"
+  },
+  {
+    "origin_airport_code": "HVN",
+    "origin_airport_name": "Tweed New Haven (HVN)",
+    "reporting_month": "2026-03-01T00:00:00.000",
+    "total_departures": "525",
+    "total_passengers": "69589",
+    "total_seats": "90939"
+  },
+  {
+    "origin_airport_code": "HVN",
+    "origin_airport_name": "Tweed New Haven (HVN)",
+    "reporting_month": "2026-04-01T00:00:00.000",
+    "total_departures": "508",
+    "total_passengers": "71601",
+    "total_seats": "88380"
+  },
+  {
+    "origin_airport_code": "MHT",
+    "origin_airport_name": "Manchester Boston Regional (MHT)",
+    "reporting_month": "2024-05-01T00:00:00.000",
+    "total_departures": "825",
+    "total_passengers": "55223",
+    "total_seats": "71940"
+  },
+  {
+    "origin_airport_code": "MHT",
+    "origin_airport_name": "Manchester Boston Regional (MHT)",
+    "reporting_month": "2024-06-01T00:00:00.000",
+    "total_departures": "840",
+    "total_passengers": "54589",
+    "total_seats": "69286"
+  },
+  {
+    "origin_airport_code": "MHT",
+    "origin_airport_name": "Manchester Boston Regional (MHT)",
+    "reporting_month": "2024-07-01T00:00:00.000",
+    "total_departures": "852",
+    "total_passengers": "59155",
+    "total_seats": "70792"
+  },
+  {
+    "origin_airport_code": "MHT",
+    "origin_airport_name": "Manchester Boston Regional (MHT)",
+    "reporting_month": "2024-08-01T00:00:00.000",
+    "total_departures": "930",
+    "total_passengers": "65551",
+    "total_seats": "80593"
+  },
+  {
+    "origin_airport_code": "MHT",
+    "origin_airport_name": "Manchester Boston Regional (MHT)",
+    "reporting_month": "2024-09-01T00:00:00.000",
+    "total_departures": "913",
+    "total_passengers": "56889",
+    "total_seats": "79612"
+  },
+  {
+    "origin_airport_code": "MHT",
+    "origin_airport_name": "Manchester Boston Regional (MHT)",
+    "reporting_month": "2024-10-01T00:00:00.000",
+    "total_departures": "921",
+    "total_passengers": "63575",
+    "total_seats": "78178"
+  },
+  {
+    "origin_airport_code": "MHT",
+    "origin_airport_name": "Manchester Boston Regional (MHT)",
+    "reporting_month": "2024-11-01T00:00:00.000",
+    "total_departures": "792",
+    "total_passengers": "49899",
+    "total_seats": "67537"
+  },
+  {
+    "origin_airport_code": "MHT",
+    "origin_airport_name": "Manchester Boston Regional (MHT)",
+    "reporting_month": "2024-12-01T00:00:00.000",
+    "total_departures": "811",
+    "total_passengers": "49307",
+    "total_seats": "66324"
+  },
+  {
+    "origin_airport_code": "MHT",
+    "origin_airport_name": "Manchester Boston Regional (MHT)",
+    "reporting_month": "2025-01-01T00:00:00.000",
+    "total_departures": "698",
+    "total_passengers": "40474",
+    "total_seats": "56218"
+  },
+  {
+    "origin_airport_code": "MHT",
+    "origin_airport_name": "Manchester Boston Regional (MHT)",
+    "reporting_month": "2025-02-01T00:00:00.000",
+    "total_departures": "702",
+    "total_passengers": "45869",
+    "total_seats": "59794"
+  },
+  {
+    "origin_airport_code": "MHT",
+    "origin_airport_name": "Manchester Boston Regional (MHT)",
+    "reporting_month": "2025-03-01T00:00:00.000",
+    "total_departures": "817",
+    "total_passengers": "51278",
+    "total_seats": "72767"
+  },
+  {
+    "origin_airport_code": "MHT",
+    "origin_airport_name": "Manchester Boston Regional (MHT)",
+    "reporting_month": "2025-04-01T00:00:00.000",
+    "total_departures": "881",
+    "total_passengers": "60621",
+    "total_seats": "79008"
+  },
+  {
+    "origin_airport_code": "MHT",
+    "origin_airport_name": "Manchester Boston Regional (MHT)",
+    "reporting_month": "2025-05-01T00:00:00.000",
+    "total_departures": "966",
+    "total_passengers": "58620",
+    "total_seats": "80902"
+  },
+  {
+    "origin_airport_code": "MHT",
+    "origin_airport_name": "Manchester Boston Regional (MHT)",
+    "reporting_month": "2025-06-01T00:00:00.000",
+    "total_departures": "957",
+    "total_passengers": "60449",
+    "total_seats": "81084"
+  },
+  {
+    "origin_airport_code": "MHT",
+    "origin_airport_name": "Manchester Boston Regional (MHT)",
+    "reporting_month": "2025-07-01T00:00:00.000",
+    "total_departures": "991",
+    "total_passengers": "65354",
+    "total_seats": "84006"
+  },
+  {
+    "origin_airport_code": "MHT",
+    "origin_airport_name": "Manchester Boston Regional (MHT)",
+    "reporting_month": "2025-08-01T00:00:00.000",
+    "total_departures": "1010",
+    "total_passengers": "68758",
+    "total_seats": "84941"
+  },
+  {
+    "origin_airport_code": "MHT",
+    "origin_airport_name": "Manchester Boston Regional (MHT)",
+    "reporting_month": "2025-09-01T00:00:00.000",
+    "total_departures": "919",
+    "total_passengers": "60226",
+    "total_seats": "77231"
+  },
+  {
+    "origin_airport_code": "MHT",
+    "origin_airport_name": "Manchester Boston Regional (MHT)",
+    "reporting_month": "2025-10-01T00:00:00.000",
+    "total_departures": "964",
+    "total_passengers": "69922",
+    "total_seats": "83005"
+  },
+  {
+    "origin_airport_code": "MHT",
+    "origin_airport_name": "Manchester Boston Regional (MHT)",
+    "reporting_month": "2025-11-01T00:00:00.000",
+    "total_departures": "809",
+    "total_passengers": "51993",
+    "total_seats": "71757"
+  },
+  {
+    "origin_airport_code": "MHT",
+    "origin_airport_name": "Manchester Boston Regional (MHT)",
+    "reporting_month": "2025-12-01T00:00:00.000",
+    "total_departures": "863",
+    "total_passengers": "52750",
+    "total_seats": "72911"
+  },
+  {
+    "origin_airport_code": "MHT",
+    "origin_airport_name": "Manchester Boston Regional (MHT)",
+    "reporting_month": "2026-01-01T00:00:00.000",
+    "total_departures": "717",
+    "total_passengers": "40797",
+    "total_seats": "61188"
+  },
+  {
+    "origin_airport_code": "MHT",
+    "origin_airport_name": "Manchester Boston Regional (MHT)",
+    "reporting_month": "2026-02-01T00:00:00.000",
+    "total_departures": "709",
+    "total_passengers": "47663",
+    "total_seats": "61222"
+  },
+  {
+    "origin_airport_code": "MHT",
+    "origin_airport_name": "Manchester Boston Regional (MHT)",
+    "reporting_month": "2026-03-01T00:00:00.000",
+    "total_departures": "797",
+    "total_passengers": "47560",
+    "total_seats": "66485"
+  },
+  {
+    "origin_airport_code": "MHT",
+    "origin_airport_name": "Manchester Boston Regional (MHT)",
+    "reporting_month": "2026-04-01T00:00:00.000",
+    "total_departures": "931",
+    "total_passengers": "59015",
+    "total_seats": "80288"
+  },
+  {
+    "origin_airport_code": "ORH",
+    "origin_airport_name": "Worcester Regional (ORH)",
+    "reporting_month": "2024-05-01T00:00:00.000",
+    "total_departures": "118",
+    "total_passengers": "9363",
+    "total_seats": "14011"
+  },
+  {
+    "origin_airport_code": "ORH",
+    "origin_airport_name": "Worcester Regional (ORH)",
+    "reporting_month": "2024-06-01T00:00:00.000",
+    "total_departures": "109",
+    "total_passengers": "9099",
+    "total_seats": "13128"
+  },
+  {
+    "origin_airport_code": "ORH",
+    "origin_airport_name": "Worcester Regional (ORH)",
+    "reporting_month": "2024-07-01T00:00:00.000",
+    "total_departures": "118",
+    "total_passengers": "10120",
+    "total_seats": "14176"
+  },
+  {
+    "origin_airport_code": "ORH",
+    "origin_airport_name": "Worcester Regional (ORH)",
+    "reporting_month": "2024-08-01T00:00:00.000",
+    "total_departures": "111",
+    "total_passengers": "9343",
+    "total_seats": "13555"
+  },
+  {
+    "origin_airport_code": "ORH",
+    "origin_airport_name": "Worcester Regional (ORH)",
+    "reporting_month": "2024-09-01T00:00:00.000",
+    "total_departures": "98",
+    "total_passengers": "6327",
+    "total_seats": "11006"
+  },
+  {
+    "origin_airport_code": "ORH",
+    "origin_airport_name": "Worcester Regional (ORH)",
+    "reporting_month": "2024-10-01T00:00:00.000",
+    "total_departures": "99",
+    "total_passengers": "7125",
+    "total_seats": "10948"
+  },
+  {
+    "origin_airport_code": "ORH",
+    "origin_airport_name": "Worcester Regional (ORH)",
+    "reporting_month": "2024-11-01T00:00:00.000",
+    "total_departures": "116",
+    "total_passengers": "8567",
+    "total_seats": "13718"
+  },
+  {
+    "origin_airport_code": "ORH",
+    "origin_airport_name": "Worcester Regional (ORH)",
+    "reporting_month": "2024-12-01T00:00:00.000",
+    "total_departures": "118",
+    "total_passengers": "10340",
+    "total_seats": "14996"
+  },
+  {
+    "origin_airport_code": "ORH",
+    "origin_airport_name": "Worcester Regional (ORH)",
+    "reporting_month": "2025-01-01T00:00:00.000",
+    "total_departures": "106",
+    "total_passengers": "7289",
+    "total_seats": "12190"
+  },
+  {
+    "origin_airport_code": "ORH",
+    "origin_airport_name": "Worcester Regional (ORH)",
+    "reporting_month": "2025-02-01T00:00:00.000",
+    "total_departures": "114",
+    "total_passengers": "9285",
+    "total_seats": "13892"
+  },
+  {
+    "origin_airport_code": "ORH",
+    "origin_airport_name": "Worcester Regional (ORH)",
+    "reporting_month": "2025-03-01T00:00:00.000",
+    "total_departures": "148",
+    "total_passengers": "11986",
+    "total_seats": "18430"
+  },
+  {
+    "origin_airport_code": "ORH",
+    "origin_airport_name": "Worcester Regional (ORH)",
+    "reporting_month": "2025-04-01T00:00:00.000",
+    "total_departures": "162",
+    "total_passengers": "12891",
+    "total_seats": "20568"
+  },
+  {
+    "origin_airport_code": "ORH",
+    "origin_airport_name": "Worcester Regional (ORH)",
+    "reporting_month": "2025-05-01T00:00:00.000",
+    "total_departures": "116",
+    "total_passengers": "7188",
+    "total_seats": "13140"
+  },
+  {
+    "origin_airport_code": "ORH",
+    "origin_airport_name": "Worcester Regional (ORH)",
+    "reporting_month": "2025-06-01T00:00:00.000",
+    "total_departures": "112",
+    "total_passengers": "7543",
+    "total_seats": "12670"
+  },
+  {
+    "origin_airport_code": "ORH",
+    "origin_airport_name": "Worcester Regional (ORH)",
+    "reporting_month": "2025-07-01T00:00:00.000",
+    "total_departures": "116",
+    "total_passengers": "8712",
+    "total_seats": "12367"
+  },
+  {
+    "origin_airport_code": "ORH",
+    "origin_airport_name": "Worcester Regional (ORH)",
+    "reporting_month": "2025-08-01T00:00:00.000",
+    "total_departures": "119",
+    "total_passengers": "8610",
+    "total_seats": "12442"
+  },
+  {
+    "origin_airport_code": "ORH",
+    "origin_airport_name": "Worcester Regional (ORH)",
+    "reporting_month": "2025-09-01T00:00:00.000",
+    "total_departures": "88",
+    "total_passengers": "5616",
+    "total_seats": "8292"
+  },
+  {
+    "origin_airport_code": "ORH",
+    "origin_airport_name": "Worcester Regional (ORH)",
+    "reporting_month": "2025-10-01T00:00:00.000",
+    "total_departures": "109",
+    "total_passengers": "8829",
+    "total_seats": "11544"
+  },
+  {
+    "origin_airport_code": "ORH",
+    "origin_airport_name": "Worcester Regional (ORH)",
+    "reporting_month": "2025-11-01T00:00:00.000",
+    "total_departures": "116",
+    "total_passengers": "8665",
+    "total_seats": "12717"
+  },
+  {
+    "origin_airport_code": "ORH",
+    "origin_airport_name": "Worcester Regional (ORH)",
+    "reporting_month": "2025-12-01T00:00:00.000",
+    "total_departures": "109",
+    "total_passengers": "9598",
+    "total_seats": "12427"
+  },
+  {
+    "origin_airport_code": "ORH",
+    "origin_airport_name": "Worcester Regional (ORH)",
+    "reporting_month": "2026-01-01T00:00:00.000",
+    "total_departures": "108",
+    "total_passengers": "8909",
+    "total_seats": "12286"
+  },
+  {
+    "origin_airport_code": "ORH",
+    "origin_airport_name": "Worcester Regional (ORH)",
+    "reporting_month": "2026-02-01T00:00:00.000",
+    "total_departures": "113",
+    "total_passengers": "10678",
+    "total_seats": "13146"
+  },
+  {
+    "origin_airport_code": "ORH",
+    "origin_airport_name": "Worcester Regional (ORH)",
+    "reporting_month": "2026-03-01T00:00:00.000",
+    "total_departures": "149",
+    "total_passengers": "13768",
+    "total_seats": "18591"
+  },
+  {
+    "origin_airport_code": "ORH",
+    "origin_airport_name": "Worcester Regional (ORH)",
+    "reporting_month": "2026-04-01T00:00:00.000",
+    "total_departures": "165",
+    "total_passengers": "14538",
+    "total_seats": "20552"
+  },
+  {
+    "origin_airport_code": "PVD",
+    "origin_airport_name": "Rhode Island Tf Green International (PVD)",
+    "reporting_month": "2024-05-01T00:00:00.000",
+    "total_departures": "1778",
+    "total_passengers": "168335",
+    "total_seats": "208015"
+  },
+  {
+    "origin_airport_code": "PVD",
+    "origin_airport_name": "Rhode Island Tf Green International (PVD)",
+    "reporting_month": "2024-06-01T00:00:00.000",
+    "total_departures": "1869",
+    "total_passengers": "175865",
+    "total_seats": "220739"
+  },
+  {
+    "origin_airport_code": "PVD",
+    "origin_airport_name": "Rhode Island Tf Green International (PVD)",
+    "reporting_month": "2024-07-01T00:00:00.000",
+    "total_departures": "1932",
+    "total_passengers": "191605",
+    "total_seats": "227648"
+  },
+  {
+    "origin_airport_code": "PVD",
+    "origin_airport_name": "Rhode Island Tf Green International (PVD)",
+    "reporting_month": "2024-08-01T00:00:00.000",
+    "total_departures": "1977",
+    "total_passengers": "197601",
+    "total_seats": "241726"
+  },
+  {
+    "origin_airport_code": "PVD",
+    "origin_airport_name": "Rhode Island Tf Green International (PVD)",
+    "reporting_month": "2024-09-01T00:00:00.000",
+    "total_departures": "1829",
+    "total_passengers": "168386",
+    "total_seats": "222979"
+  },
+  {
+    "origin_airport_code": "PVD",
+    "origin_airport_name": "Rhode Island Tf Green International (PVD)",
+    "reporting_month": "2024-10-01T00:00:00.000",
+    "total_departures": "1964",
+    "total_passengers": "187550",
+    "total_seats": "238465"
+  },
+  {
+    "origin_airport_code": "PVD",
+    "origin_airport_name": "Rhode Island Tf Green International (PVD)",
+    "reporting_month": "2024-11-01T00:00:00.000",
+    "total_departures": "1879",
+    "total_passengers": "170257",
+    "total_seats": "228120"
+  },
+  {
+    "origin_airport_code": "PVD",
+    "origin_airport_name": "Rhode Island Tf Green International (PVD)",
+    "reporting_month": "2024-12-01T00:00:00.000",
+    "total_departures": "1881",
+    "total_passengers": "178690",
+    "total_seats": "229710"
+  },
+  {
+    "origin_airport_code": "PVD",
+    "origin_airport_name": "Rhode Island Tf Green International (PVD)",
+    "reporting_month": "2025-01-01T00:00:00.000",
+    "total_departures": "1584",
+    "total_passengers": "134213",
+    "total_seats": "187791"
+  },
+  {
+    "origin_airport_code": "PVD",
+    "origin_airport_name": "Rhode Island Tf Green International (PVD)",
+    "reporting_month": "2025-02-01T00:00:00.000",
+    "total_departures": "1567",
+    "total_passengers": "143504",
+    "total_seats": "191076"
+  },
+  {
+    "origin_airport_code": "PVD",
+    "origin_airport_name": "Rhode Island Tf Green International (PVD)",
+    "reporting_month": "2025-03-01T00:00:00.000",
+    "total_departures": "1769",
+    "total_passengers": "167475",
+    "total_seats": "220660"
+  },
+  {
+    "origin_airport_code": "PVD",
+    "origin_airport_name": "Rhode Island Tf Green International (PVD)",
+    "reporting_month": "2025-04-01T00:00:00.000",
+    "total_departures": "1924",
+    "total_passengers": "192118",
+    "total_seats": "245596"
+  },
+  {
+    "origin_airport_code": "PVD",
+    "origin_airport_name": "Rhode Island Tf Green International (PVD)",
+    "reporting_month": "2025-05-01T00:00:00.000",
+    "total_departures": "1977",
+    "total_passengers": "182187",
+    "total_seats": "243213"
+  },
+  {
+    "origin_airport_code": "PVD",
+    "origin_airport_name": "Rhode Island Tf Green International (PVD)",
+    "reporting_month": "2025-06-01T00:00:00.000",
+    "total_departures": "1954",
+    "total_passengers": "182535",
+    "total_seats": "231822"
+  },
+  {
+    "origin_airport_code": "PVD",
+    "origin_airport_name": "Rhode Island Tf Green International (PVD)",
+    "reporting_month": "2025-07-01T00:00:00.000",
+    "total_departures": "2025",
+    "total_passengers": "197685",
+    "total_seats": "239949"
+  },
+  {
+    "origin_airport_code": "PVD",
+    "origin_airport_name": "Rhode Island Tf Green International (PVD)",
+    "reporting_month": "2025-08-01T00:00:00.000",
+    "total_departures": "2037",
+    "total_passengers": "206792",
+    "total_seats": "248626"
+  },
+  {
+    "origin_airport_code": "PVD",
+    "origin_airport_name": "Rhode Island Tf Green International (PVD)",
+    "reporting_month": "2025-09-01T00:00:00.000",
+    "total_departures": "1812",
+    "total_passengers": "176115",
+    "total_seats": "221522"
+  },
+  {
+    "origin_airport_code": "PVD",
+    "origin_airport_name": "Rhode Island Tf Green International (PVD)",
+    "reporting_month": "2025-10-01T00:00:00.000",
+    "total_departures": "1943",
+    "total_passengers": "198107",
+    "total_seats": "242037"
+  },
+  {
+    "origin_airport_code": "PVD",
+    "origin_airport_name": "Rhode Island Tf Green International (PVD)",
+    "reporting_month": "2025-11-01T00:00:00.000",
+    "total_departures": "1807",
+    "total_passengers": "170204",
+    "total_seats": "231169"
+  },
+  {
+    "origin_airport_code": "PVD",
+    "origin_airport_name": "Rhode Island Tf Green International (PVD)",
+    "reporting_month": "2025-12-01T00:00:00.000",
+    "total_departures": "1809",
+    "total_passengers": "171772",
+    "total_seats": "224679"
+  },
+  {
+    "origin_airport_code": "PVD",
+    "origin_airport_name": "Rhode Island Tf Green International (PVD)",
+    "reporting_month": "2026-01-01T00:00:00.000",
+    "total_departures": "1474",
+    "total_passengers": "130816",
+    "total_seats": "184109"
+  },
+  {
+    "origin_airport_code": "PVD",
+    "origin_airport_name": "Rhode Island Tf Green International (PVD)",
+    "reporting_month": "2026-02-01T00:00:00.000",
+    "total_departures": "1478",
+    "total_passengers": "140007",
+    "total_seats": "184217"
+  },
+  {
+    "origin_airport_code": "PVD",
+    "origin_airport_name": "Rhode Island Tf Green International (PVD)",
+    "reporting_month": "2026-03-01T00:00:00.000",
+    "total_departures": "1750",
+    "total_passengers": "161368",
+    "total_seats": "214354"
+  },
+  {
+    "origin_airport_code": "PVD",
+    "origin_airport_name": "Rhode Island Tf Green International (PVD)",
+    "reporting_month": "2026-04-01T00:00:00.000",
+    "total_departures": "1936",
+    "total_passengers": "178197",
+    "total_seats": "230731"
+  },
+  {
+    "origin_airport_code": "PWM",
+    "origin_airport_name": "Portland International Jetport (PWM)",
+    "reporting_month": "2024-05-01T00:00:00.000",
+    "total_departures": "1063",
+    "total_passengers": "84748",
+    "total_seats": "99824"
+  },
+  {
+    "origin_airport_code": "PWM",
+    "origin_airport_name": "Portland International Jetport (PWM)",
+    "reporting_month": "2024-06-01T00:00:00.000",
+    "total_departures": "1458",
+    "total_passengers": "123536",
+    "total_seats": "159896"
+  },
+  {
+    "origin_airport_code": "PWM",
+    "origin_airport_name": "Portland International Jetport (PWM)",
+    "reporting_month": "2024-07-01T00:00:00.000",
+    "total_departures": "1593",
+    "total_passengers": "150486",
+    "total_seats": "178009"
+  },
+  {
+    "origin_airport_code": "PWM",
+    "origin_airport_name": "Portland International Jetport (PWM)",
+    "reporting_month": "2024-08-01T00:00:00.000",
+    "total_departures": "1655",
+    "total_passengers": "159127",
+    "total_seats": "184990"
+  },
+  {
+    "origin_airport_code": "PWM",
+    "origin_airport_name": "Portland International Jetport (PWM)",
+    "reporting_month": "2024-09-01T00:00:00.000",
+    "total_departures": "1589",
+    "total_passengers": "138281",
+    "total_seats": "168862"
+  },
+  {
+    "origin_airport_code": "PWM",
+    "origin_airport_name": "Portland International Jetport (PWM)",
+    "reporting_month": "2024-10-01T00:00:00.000",
+    "total_departures": "1559",
+    "total_passengers": "143096",
+    "total_seats": "168381"
+  },
+  {
+    "origin_airport_code": "PWM",
+    "origin_airport_name": "Portland International Jetport (PWM)",
+    "reporting_month": "2024-11-01T00:00:00.000",
+    "total_departures": "1022",
+    "total_passengers": "79825",
+    "total_seats": "98100"
+  },
+  {
+    "origin_airport_code": "PWM",
+    "origin_airport_name": "Portland International Jetport (PWM)",
+    "reporting_month": "2024-12-01T00:00:00.000",
+    "total_departures": "946",
+    "total_passengers": "76667",
+    "total_seats": "93090"
+  },
+  {
+    "origin_airport_code": "PWM",
+    "origin_airport_name": "Portland International Jetport (PWM)",
+    "reporting_month": "2025-01-01T00:00:00.000",
+    "total_departures": "859",
+    "total_passengers": "62765",
+    "total_seats": "80621"
+  },
+  {
+    "origin_airport_code": "PWM",
+    "origin_airport_name": "Portland International Jetport (PWM)",
+    "reporting_month": "2025-02-01T00:00:00.000",
+    "total_departures": "773",
+    "total_passengers": "60959",
+    "total_seats": "74247"
+  },
+  {
+    "origin_airport_code": "PWM",
+    "origin_airport_name": "Portland International Jetport (PWM)",
+    "reporting_month": "2025-03-01T00:00:00.000",
+    "total_departures": "976",
+    "total_passengers": "74420",
+    "total_seats": "91733"
+  },
+  {
+    "origin_airport_code": "PWM",
+    "origin_airport_name": "Portland International Jetport (PWM)",
+    "reporting_month": "2025-04-01T00:00:00.000",
+    "total_departures": "1153",
+    "total_passengers": "88727",
+    "total_seats": "116630"
+  },
+  {
+    "origin_airport_code": "PWM",
+    "origin_airport_name": "Portland International Jetport (PWM)",
+    "reporting_month": "2025-05-01T00:00:00.000",
+    "total_departures": "1287",
+    "total_passengers": "101855",
+    "total_seats": "131426"
+  },
+  {
+    "origin_airport_code": "PWM",
+    "origin_airport_name": "Portland International Jetport (PWM)",
+    "reporting_month": "2025-06-01T00:00:00.000",
+    "total_departures": "1483",
+    "total_passengers": "133516",
+    "total_seats": "163250"
+  },
+  {
+    "origin_airport_code": "PWM",
+    "origin_airport_name": "Portland International Jetport (PWM)",
+    "reporting_month": "2025-07-01T00:00:00.000",
+    "total_departures": "1560",
+    "total_passengers": "154620",
+    "total_seats": "181024"
+  },
+  {
+    "origin_airport_code": "PWM",
+    "origin_airport_name": "Portland International Jetport (PWM)",
+    "reporting_month": "2025-08-01T00:00:00.000",
+    "total_departures": "1657",
+    "total_passengers": "167828",
+    "total_seats": "188749"
+  },
+  {
+    "origin_airport_code": "PWM",
+    "origin_airport_name": "Portland International Jetport (PWM)",
+    "reporting_month": "2025-09-01T00:00:00.000",
+    "total_departures": "1491",
+    "total_passengers": "141850",
+    "total_seats": "168590"
+  },
+  {
+    "origin_airport_code": "PWM",
+    "origin_airport_name": "Portland International Jetport (PWM)",
+    "reporting_month": "2025-10-01T00:00:00.000",
+    "total_departures": "1562",
+    "total_passengers": "145817",
+    "total_seats": "170723"
+  },
+  {
+    "origin_airport_code": "PWM",
+    "origin_airport_name": "Portland International Jetport (PWM)",
+    "reporting_month": "2025-11-01T00:00:00.000",
+    "total_departures": "1093",
+    "total_passengers": "83674",
+    "total_seats": "108258"
+  },
+  {
+    "origin_airport_code": "PWM",
+    "origin_airport_name": "Portland International Jetport (PWM)",
+    "reporting_month": "2025-12-01T00:00:00.000",
+    "total_departures": "943",
+    "total_passengers": "71445",
+    "total_seats": "87803"
+  },
+  {
+    "origin_airport_code": "PWM",
+    "origin_airport_name": "Portland International Jetport (PWM)",
+    "reporting_month": "2026-01-01T00:00:00.000",
+    "total_departures": "822",
+    "total_passengers": "60256",
+    "total_seats": "75876"
+  },
+  {
+    "origin_airport_code": "PWM",
+    "origin_airport_name": "Portland International Jetport (PWM)",
+    "reporting_month": "2026-02-01T00:00:00.000",
+    "total_departures": "783",
+    "total_passengers": "61270",
+    "total_seats": "71736"
+  },
+  {
+    "origin_airport_code": "PWM",
+    "origin_airport_name": "Portland International Jetport (PWM)",
+    "reporting_month": "2026-03-01T00:00:00.000",
+    "total_departures": "974",
+    "total_passengers": "72223",
+    "total_seats": "88683"
+  },
+  {
+    "origin_airport_code": "PWM",
+    "origin_airport_name": "Portland International Jetport (PWM)",
+    "reporting_month": "2026-04-01T00:00:00.000",
+    "total_departures": "1186",
+    "total_passengers": "82997",
+    "total_seats": "107486"
+  }
+]

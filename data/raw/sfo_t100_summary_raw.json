@@ -1,0 +1,194 @@
+[
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2024-05-01T00:00:00.000",
+    "total_departures": "14728",
+    "total_passengers": "2197729",
+    "total_seats": "2572263"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2024-06-01T00:00:00.000",
+    "total_departures": "14134",
+    "total_passengers": "2331315",
+    "total_seats": "2562181"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2024-07-01T00:00:00.000",
+    "total_departures": "15731",
+    "total_passengers": "2377299",
+    "total_seats": "2769352"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2024-08-01T00:00:00.000",
+    "total_departures": "16035",
+    "total_passengers": "2319148",
+    "total_seats": "2786657"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2024-09-01T00:00:00.000",
+    "total_departures": "15413",
+    "total_passengers": "2128370",
+    "total_seats": "2632874"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2024-10-01T00:00:00.000",
+    "total_departures": "16263",
+    "total_passengers": "2276047",
+    "total_seats": "2782038"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2024-11-01T00:00:00.000",
+    "total_departures": "15417",
+    "total_passengers": "2079858",
+    "total_seats": "2601687"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2024-12-01T00:00:00.000",
+    "total_departures": "15719",
+    "total_passengers": "2269553",
+    "total_seats": "2660491"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2025-01-01T00:00:00.000",
+    "total_departures": "14404",
+    "total_passengers": "1878409",
+    "total_seats": "2434694"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2025-02-01T00:00:00.000",
+    "total_departures": "13082",
+    "total_passengers": "1718352",
+    "total_seats": "2188324"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2025-03-01T00:00:00.000",
+    "total_departures": "15676",
+    "total_passengers": "2078835",
+    "total_seats": "2589708"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2025-04-01T00:00:00.000",
+    "total_departures": "15965",
+    "total_passengers": "2122960",
+    "total_seats": "2640236"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2025-05-01T00:00:00.000",
+    "total_departures": "16986",
+    "total_passengers": "2380541",
+    "total_seats": "2884259"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2025-06-01T00:00:00.000",
+    "total_departures": "16790",
+    "total_passengers": "2565863",
+    "total_seats": "2870661"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2025-07-01T00:00:00.000",
+    "total_departures": "17325",
+    "total_passengers": "2510801",
+    "total_seats": "2959302"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2025-08-01T00:00:00.000",
+    "total_departures": "16762",
+    "total_passengers": "2405856",
+    "total_seats": "2874821"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2025-09-01T00:00:00.000",
+    "total_departures": "15526",
+    "total_passengers": "2144234",
+    "total_seats": "2673161"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2025-10-01T00:00:00.000",
+    "total_departures": "16520",
+    "total_passengers": "2348756",
+    "total_seats": "2846138"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2025-11-01T00:00:00.000",
+    "total_departures": "15309",
+    "total_passengers": "2099206",
+    "total_seats": "2581950"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2025-12-01T00:00:00.000",
+    "total_departures": "15741",
+    "total_passengers": "2228951",
+    "total_seats": "2652207"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2026-01-01T00:00:00.000",
+    "total_departures": "14521",
+    "total_passengers": "1849008",
+    "total_seats": "2443574"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2026-02-01T00:00:00.000",
+    "total_departures": "13452",
+    "total_passengers": "1774804",
+    "total_seats": "2228123"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2026-03-01T00:00:00.000",
+    "total_departures": "15595",
+    "total_passengers": "2187575",
+    "total_seats": "2589387"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2026-04-01T00:00:00.000",
+    "total_departures": "15753",
+    "total_passengers": "2147010",
+    "total_seats": "2669813"
+  }
+]

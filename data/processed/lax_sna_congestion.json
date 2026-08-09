@@ -1,0 +1,115 @@
+{
+  "metric": "operational_congestion_comparison",
+  "period_start": "2025-05",
+  "period_end": "2026-04",
+  "airports": [
+    {
+      "airport_code": "LAX",
+      "months_returned": 12,
+      "scheduled_flights": 189899,
+      "operated_flights": 188148,
+      "delay_eligible_flights": 188213,
+      "delayed_15_flights": 36548,
+      "departure_delay_rate": 19.42,
+      "average_departure_delay_minutes": 14.86,
+      "departure_delay_observations": 188213,
+      "average_taxi_out_minutes": 17.88,
+      "taxi_out_observations": 188173,
+      "cancelled_flights": 1751,
+      "cancellation_rate": 0.92,
+      "diverted_flights": 574,
+      "diversion_rate": 0.3,
+      "delay_cause_mix": {
+        "CarrierDelay": {
+          "minutes": 998220,
+          "percentage": 39.6
+        },
+        "WeatherDelay": {
+          "minutes": 60863,
+          "percentage": 2.41
+        },
+        "NASDelay": {
+          "minutes": 539627,
+          "percentage": 21.4
+        },
+        "SecurityDelay": {
+          "minutes": 3412,
+          "percentage": 0.14
+        },
+        "LateAircraftDelay": {
+          "minutes": 918912,
+          "percentage": 36.45
+        }
+      },
+      "filtered_raw_rows": 189899
+    },
+    {
+      "airport_code": "SNA",
+      "months_returned": 12,
+      "scheduled_flights": 45464,
+      "operated_flights": 44974,
+      "delay_eligible_flights": 44984,
+      "delayed_15_flights": 8760,
+      "departure_delay_rate": 19.47,
+      "average_departure_delay_minutes": 14.88,
+      "departure_delay_observations": 44984,
+      "average_taxi_out_minutes": 16.05,
+      "taxi_out_observations": 44974,
+      "cancelled_flights": 490,
+      "cancellation_rate": 1.08,
+      "diverted_flights": 140,
+      "diversion_rate": 0.31,
+      "delay_cause_mix": {
+        "CarrierDelay": {
+          "minutes": 176132,
+          "percentage": 29.69
+        },
+        "WeatherDelay": {
+          "minutes": 25104,
+          "percentage": 4.23
+        },
+        "NASDelay": {
+          "minutes": 151554,
+          "percentage": 25.54
+        },
+        "SecurityDelay": {
+          "minutes": 484,
+          "percentage": 0.08
+        },
+        "LateAircraftDelay": {
+          "minutes": 240014,
+          "percentage": 40.45
+        }
+      },
+      "filtered_raw_rows": 45464
+    }
+  ],
+  "source": {
+    "publisher": "U.S. Bureau of Transportation Statistics",
+    "dataset": "Reporting Carrier On-Time Performance (1987-present)",
+    "access_method": "Cached filtered raw data from official monthly bulk downloads",
+    "monthly_files": [
+      "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2025_5.zip",
+      "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2025_6.zip",
+      "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2025_7.zip",
+      "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2025_8.zip",
+      "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2025_9.zip",
+      "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2025_10.zip",
+      "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2025_11.zip",
+      "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2025_12.zip",
+      "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2026_1.zip",
+      "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2026_2.zip",
+      "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2026_3.zip",
+      "https://transtats.bts.gov/PREZIP/On_Time_Reporting_Carrier_On_Time_Performance_1987_present_2026_4.zip"
+    ]
+  },
+  "methodology": {
+    "departure_delay_rate": "Flights delayed at least 15 minutes divided by flights with a reported departure-delay indicator",
+    "cancellation_rate": "Cancelled flights divided by scheduled flights",
+    "average_departure_delay_minutes": "Mean DepDelayMinutes over flights with a reported value; early departures are recorded as zero",
+    "average_taxi_out_minutes": "Mean TaxiOut over flights with a reported value",
+    "delay_cause_mix": "Each reported cause's minutes divided by total reported cause minutes"
+  },
+  "scope_note": "These metrics are an operational congestion proxy. They do not directly measure terminal crowding or terminal capacity.",
+  "processed_at": "2026-08-09T16:44:58.492645+00:00"
+}

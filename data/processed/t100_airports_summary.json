@@ -1,0 +1,46 @@
+[
+  {
+    "airport_code": "LAX",
+    "airport_name": "Los Angeles International (LAX)",
+    "months_returned": 12,
+    "period_start": "2025-05-01",
+    "period_end": "2026-04-01",
+    "total_departures": 270853,
+    "total_passengers": 36590656,
+    "total_seats": 44584901,
+    "weighted_load_factor": 82.1
+  },
+  {
+    "airport_code": "SNA",
+    "airport_name": "John Wayne Airport-Orange County (SNA)",
+    "months_returned": 12,
+    "period_start": "2025-05-01",
+    "period_end": "2026-04-01",
+    "total_departures": 51609,
+    "total_passengers": 5590354,
+    "total_seats": 6950118,
+    "weighted_load_factor": 80.4
+  },
+  {
+    "airport_code": "ANC",
+    "airport_name": "Ted Stevens Anchorage International (ANC)",
+    "months_returned": 12,
+    "period_start": "2025-05-01",
+    "period_end": "2026-04-01",
+    "total_departures": 86373,
+    "total_passengers": 2725281,
+    "total_seats": 3745847,
+    "weighted_load_factor": 72.8
+  },
+  {
+    "airport_code": "SFO",
+    "airport_name": "San Francisco International (SFO)",
+    "months_returned": 12,
+    "period_start": "2025-05-01",
+    "period_end": "2026-04-01",
+    "total_departures": 190280,
+    "total_passengers": 26642605,
+    "total_seats": 32273396,
+    "weighted_load_factor": 82.6
+  }
+]

@@ -1,0 +1,73 @@
+{
+  "airport_code": "SFO",
+  "metric": "demand_pressure_and_scheduled_supply_gap",
+  "comparison_period": "2024-05 through 2025-04",
+  "current_period": "2025-05 through 2026-04",
+  "traffic": {
+    "previous_period": {
+      "months": 12,
+      "passengers": 25777875,
+      "seats": 31220505,
+      "departures": 182567,
+      "weighted_load_factor": 82.57
+    },
+    "current_period": {
+      "months": 12,
+      "passengers": 26642605,
+      "seats": 32273396,
+      "departures": 190280,
+      "weighted_load_factor": 82.55
+    },
+    "changes": {
+      "passenger_growth_percentage": 3.35,
+      "seat_growth_percentage": 3.37,
+      "departure_growth_percentage": 4.22,
+      "load_factor_change_percentage_points": -0.02
+    }
+  },
+  "scheduled_supply": {
+    "months": 12,
+    "scheduled_departures": 168117,
+    "performed_departures": 187534,
+    "net_scheduled_minus_performed": -19417,
+    "scheduled_departures_not_operated": 3595,
+    "departures_operated_above_reported_schedule": 23012,
+    "scheduled_service_shortfall_rate": 2.14,
+    "estimated_seats_on_unoperated_scheduled_departures": 625142,
+    "shortfall_rows_without_seat_estimate": 3,
+    "matching_source_rows": 7403
+  },
+  "assessment": {
+    "demand_pressure_level": "moderate",
+    "signals": {
+      "load_factor_at_least_80_percent": true,
+      "passenger_growth_outpaced_seat_growth": false,
+      "scheduled_service_shortfall_at_least_1_percent": true
+    },
+    "direct_unmet_passenger_demand_measured": false,
+    "measurable_supply_gap": "Scheduled passenger departures reported but not performed",
+    "interpretation": "This is a deterministic screening assessment. It does not count people who wanted to fly but could not, and it does not prove that terminal expansion would be profitable."
+  },
+  "source": {
+    "publisher": "U.S. Bureau of Transportation Statistics",
+    "summary_dataset": "T-100 Segment Summary By Origin Airport",
+    "summary_dataset_id": "r495-tyji",
+    "summary_access_method": "Public Socrata API",
+    "summary_request_url": "https://data.bts.gov/resource/r495-tyji.json?%24select=origin_airport_code%2Corigin_airport_name%2Creporting_month%2Ctotal_departures%2Ctotal_passengers%2Ctotal_seats&%24where=origin_airport_code+%3D+%27SFO%27+AND+reporting_month+%3E%3D+%272024-05-01T00%3A00%3A00.000%27+AND+reporting_month+%3C%3D+%272026-04-01T00%3A00%3A00.000%27&%24order=reporting_month&%24limit=100",
+    "route_dataset": "T-100 Segment (All Carriers)",
+    "route_access_method": "Official public bulk download",
+    "route_input_files": [
+      "data\\raw\\t100_routes_2025_raw.csv",
+      "data\\raw\\t100_routes_2026_raw.csv"
+    ]
+  },
+  "assumptions": [
+    "Public BTS data does not directly measure passengers unable to obtain a flight.",
+    "Load factor, growth, and scheduled-service delivery are demand-pressure proxies.",
+    "Only service class F is used for the scheduled passenger supply gap.",
+    "Scheduled departures not performed are not identical to cancellations and may include reporting adjustments.",
+    "Estimated unoperated seats use average seats per performed departure within each source row; rows with zero performed departures cannot be estimated.",
+    "The result is an investment-screening signal, not a profitability calculation."
+  ],
+  "processed_at": "2026-08-09T17:21:28.313291+00:00"
+}

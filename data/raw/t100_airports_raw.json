@@ -1,0 +1,1802 @@
+[
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2026-04-01T00:00:00.000",
+    "total_departures": "4201",
+    "total_passengers": "452129",
+    "total_seats": "561072",
+    "total_load_factor": "80.6"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2026-04-01T00:00:00.000",
+    "total_departures": "15753",
+    "total_passengers": "2147010",
+    "total_seats": "2669813",
+    "total_load_factor": "80.4"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2026-04-01T00:00:00.000",
+    "total_departures": "21793",
+    "total_passengers": "2875734",
+    "total_seats": "3571137",
+    "total_load_factor": "80.5"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2026-04-01T00:00:00.000",
+    "total_departures": "5412",
+    "total_passengers": "166273",
+    "total_seats": "240245",
+    "total_load_factor": "69.2"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2026-03-01T00:00:00.000",
+    "total_departures": "22098",
+    "total_passengers": "3004776",
+    "total_seats": "3572577",
+    "total_load_factor": "84.1"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2026-03-01T00:00:00.000",
+    "total_departures": "4352",
+    "total_passengers": "474705",
+    "total_seats": "581344",
+    "total_load_factor": "81.7"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2026-03-01T00:00:00.000",
+    "total_departures": "6969",
+    "total_passengers": "191117",
+    "total_seats": "261116",
+    "total_load_factor": "73.2"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2026-03-01T00:00:00.000",
+    "total_departures": "15595",
+    "total_passengers": "2187575",
+    "total_seats": "2589387",
+    "total_load_factor": "84.5"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2026-02-01T00:00:00.000",
+    "total_departures": "13452",
+    "total_passengers": "1774804",
+    "total_seats": "2228123",
+    "total_load_factor": "79.7"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2026-02-01T00:00:00.000",
+    "total_departures": "5859",
+    "total_passengers": "151865",
+    "total_seats": "224573",
+    "total_load_factor": "67.6"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2026-02-01T00:00:00.000",
+    "total_departures": "19209",
+    "total_passengers": "2449407",
+    "total_seats": "3091783",
+    "total_load_factor": "79.2"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2026-02-01T00:00:00.000",
+    "total_departures": "3844",
+    "total_passengers": "405019",
+    "total_seats": "507229",
+    "total_load_factor": "79.8"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2026-01-01T00:00:00.000",
+    "total_departures": "6494",
+    "total_passengers": "163595",
+    "total_seats": "243126",
+    "total_load_factor": "67.3"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2026-01-01T00:00:00.000",
+    "total_departures": "21145",
+    "total_passengers": "2688612",
+    "total_seats": "3446444",
+    "total_load_factor": "78"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2026-01-01T00:00:00.000",
+    "total_departures": "4107",
+    "total_passengers": "405561",
+    "total_seats": "539985",
+    "total_load_factor": "75.1"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2026-01-01T00:00:00.000",
+    "total_departures": "14521",
+    "total_passengers": "1849008",
+    "total_seats": "2443574",
+    "total_load_factor": "75.7"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2025-12-01T00:00:00.000",
+    "total_departures": "6872",
+    "total_passengers": "185000",
+    "total_seats": "248666",
+    "total_load_factor": "74.4"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2025-12-01T00:00:00.000",
+    "total_departures": "15741",
+    "total_passengers": "2228951",
+    "total_seats": "2652207",
+    "total_load_factor": "84"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2025-12-01T00:00:00.000",
+    "total_departures": "23265",
+    "total_passengers": "3151392",
+    "total_seats": "3804897",
+    "total_load_factor": "82.8"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2025-12-01T00:00:00.000",
+    "total_departures": "4334",
+    "total_passengers": "462326",
+    "total_seats": "582506",
+    "total_load_factor": "79.4"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2025-11-01T00:00:00.000",
+    "total_departures": "6929",
+    "total_passengers": "163804",
+    "total_seats": "245792",
+    "total_load_factor": "66.6"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2025-11-01T00:00:00.000",
+    "total_departures": "4247",
+    "total_passengers": "442659",
+    "total_seats": "566030",
+    "total_load_factor": "78.2"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2025-11-01T00:00:00.000",
+    "total_departures": "15309",
+    "total_passengers": "2099206",
+    "total_seats": "2581950",
+    "total_load_factor": "81.3"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2025-11-01T00:00:00.000",
+    "total_departures": "21829",
+    "total_passengers": "2840103",
+    "total_seats": "3563860",
+    "total_load_factor": "79.7"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2025-10-01T00:00:00.000",
+    "total_departures": "22998",
+    "total_passengers": "3112959",
+    "total_seats": "3792844",
+    "total_load_factor": "82.1"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2025-10-01T00:00:00.000",
+    "total_departures": "16520",
+    "total_passengers": "2348756",
+    "total_seats": "2846138",
+    "total_load_factor": "82.5"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2025-10-01T00:00:00.000",
+    "total_departures": "4425",
+    "total_passengers": "489227",
+    "total_seats": "590190",
+    "total_load_factor": "82.9"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2025-10-01T00:00:00.000",
+    "total_departures": "7304",
+    "total_passengers": "192275",
+    "total_seats": "271819",
+    "total_load_factor": "70.7"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2025-09-01T00:00:00.000",
+    "total_departures": "7651",
+    "total_passengers": "245384",
+    "total_seats": "337918",
+    "total_load_factor": "72.6"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2025-09-01T00:00:00.000",
+    "total_departures": "4252",
+    "total_passengers": "466035",
+    "total_seats": "591394",
+    "total_load_factor": "78.8"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2025-09-01T00:00:00.000",
+    "total_departures": "21860",
+    "total_passengers": "2875336",
+    "total_seats": "3622570",
+    "total_load_factor": "79.4"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2025-09-01T00:00:00.000",
+    "total_departures": "15526",
+    "total_passengers": "2144234",
+    "total_seats": "2673161",
+    "total_load_factor": "80.2"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2025-08-01T00:00:00.000",
+    "total_departures": "23991",
+    "total_passengers": "3300021",
+    "total_seats": "3980819",
+    "total_load_factor": "82.9"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2025-08-01T00:00:00.000",
+    "total_departures": "4428",
+    "total_passengers": "503547",
+    "total_seats": "615403",
+    "total_load_factor": "81.8"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2025-08-01T00:00:00.000",
+    "total_departures": "8562",
+    "total_passengers": "360793",
+    "total_seats": "442489",
+    "total_load_factor": "81.5"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2025-08-01T00:00:00.000",
+    "total_departures": "16762",
+    "total_passengers": "2405856",
+    "total_seats": "2874821",
+    "total_load_factor": "83.7"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2025-07-01T00:00:00.000",
+    "total_departures": "17325",
+    "total_passengers": "2510801",
+    "total_seats": "2959302",
+    "total_load_factor": "84.8"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2025-07-01T00:00:00.000",
+    "total_departures": "4545",
+    "total_passengers": "512450",
+    "total_seats": "611736",
+    "total_load_factor": "83.8"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2025-07-01T00:00:00.000",
+    "total_departures": "24777",
+    "total_passengers": "3533343",
+    "total_seats": "4154302",
+    "total_load_factor": "85.1"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2025-07-01T00:00:00.000",
+    "total_departures": "8551",
+    "total_passengers": "371245",
+    "total_seats": "465094",
+    "total_load_factor": "79.8"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2025-06-01T00:00:00.000",
+    "total_departures": "4439",
+    "total_passengers": "501836",
+    "total_seats": "603089",
+    "total_load_factor": "83.2"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2025-06-01T00:00:00.000",
+    "total_departures": "24177",
+    "total_passengers": "3537084",
+    "total_seats": "4048005",
+    "total_load_factor": "87.4"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2025-06-01T00:00:00.000",
+    "total_departures": "8418",
+    "total_passengers": "309778",
+    "total_seats": "431818",
+    "total_load_factor": "71.7"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2025-06-01T00:00:00.000",
+    "total_departures": "16790",
+    "total_passengers": "2565863",
+    "total_seats": "2870661",
+    "total_load_factor": "89.4"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2025-05-01T00:00:00.000",
+    "total_departures": "4435",
+    "total_passengers": "474860",
+    "total_seats": "600140",
+    "total_load_factor": "79.1"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2025-05-01T00:00:00.000",
+    "total_departures": "23711",
+    "total_passengers": "3221889",
+    "total_seats": "3935663",
+    "total_load_factor": "81.9"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2025-05-01T00:00:00.000",
+    "total_departures": "7352",
+    "total_passengers": "224152",
+    "total_seats": "333191",
+    "total_load_factor": "67.3"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2025-05-01T00:00:00.000",
+    "total_departures": "16986",
+    "total_passengers": "2380541",
+    "total_seats": "2884259",
+    "total_load_factor": "82.5"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2025-04-01T00:00:00.000",
+    "total_departures": "22555",
+    "total_passengers": "2991624",
+    "total_seats": "3676117",
+    "total_load_factor": "81.4"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2025-04-01T00:00:00.000",
+    "total_departures": "4200",
+    "total_passengers": "443978",
+    "total_seats": "563974",
+    "total_load_factor": "78.7"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2025-04-01T00:00:00.000",
+    "total_departures": "15965",
+    "total_passengers": "2122960",
+    "total_seats": "2640236",
+    "total_load_factor": "80.4"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2025-04-01T00:00:00.000",
+    "total_departures": "7052",
+    "total_passengers": "166269",
+    "total_seats": "238996",
+    "total_load_factor": "69.6"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2025-03-01T00:00:00.000",
+    "total_departures": "15676",
+    "total_passengers": "2078835",
+    "total_seats": "2589708",
+    "total_load_factor": "80.3"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2025-03-01T00:00:00.000",
+    "total_departures": "4282",
+    "total_passengers": "456292",
+    "total_seats": "579092",
+    "total_load_factor": "78.8"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2025-03-01T00:00:00.000",
+    "total_departures": "6765",
+    "total_passengers": "179105",
+    "total_seats": "242495",
+    "total_load_factor": "73.9"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2025-03-01T00:00:00.000",
+    "total_departures": "23181",
+    "total_passengers": "3036732",
+    "total_seats": "3751724",
+    "total_load_factor": "80.9"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2025-02-01T00:00:00.000",
+    "total_departures": "13082",
+    "total_passengers": "1718352",
+    "total_seats": "2188324",
+    "total_load_factor": "78.5"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2025-02-01T00:00:00.000",
+    "total_departures": "3683",
+    "total_passengers": "384641",
+    "total_seats": "496630",
+    "total_load_factor": "77.5"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2025-02-01T00:00:00.000",
+    "total_departures": "19684",
+    "total_passengers": "2467710",
+    "total_seats": "3181772",
+    "total_load_factor": "77.6"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2025-02-01T00:00:00.000",
+    "total_departures": "5727",
+    "total_passengers": "151044",
+    "total_seats": "204558",
+    "total_load_factor": "73.8"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2025-01-01T00:00:00.000",
+    "total_departures": "14404",
+    "total_passengers": "1878409",
+    "total_seats": "2434694",
+    "total_load_factor": "77.2"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2025-01-01T00:00:00.000",
+    "total_departures": "21883",
+    "total_passengers": "2698719",
+    "total_seats": "3554783",
+    "total_load_factor": "75.9"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2025-01-01T00:00:00.000",
+    "total_departures": "3986",
+    "total_passengers": "394795",
+    "total_seats": "539786",
+    "total_load_factor": "73.1"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2025-01-01T00:00:00.000",
+    "total_departures": "6805",
+    "total_passengers": "165510",
+    "total_seats": "227555",
+    "total_load_factor": "72.7"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2024-12-01T00:00:00.000",
+    "total_departures": "15719",
+    "total_passengers": "2269553",
+    "total_seats": "2660491",
+    "total_load_factor": "85.3"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2024-12-01T00:00:00.000",
+    "total_departures": "4115",
+    "total_passengers": "454267",
+    "total_seats": "568574",
+    "total_load_factor": "79.9"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2024-12-01T00:00:00.000",
+    "total_departures": "23479",
+    "total_passengers": "3290943",
+    "total_seats": "3857557",
+    "total_load_factor": "85.3"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2024-12-01T00:00:00.000",
+    "total_departures": "7190",
+    "total_passengers": "180572",
+    "total_seats": "231880",
+    "total_load_factor": "77.9"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2024-11-01T00:00:00.000",
+    "total_departures": "7519",
+    "total_passengers": "165899",
+    "total_seats": "232504",
+    "total_load_factor": "71.4"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2024-11-01T00:00:00.000",
+    "total_departures": "22313",
+    "total_passengers": "3013788",
+    "total_seats": "3652573",
+    "total_load_factor": "82.5"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2024-11-01T00:00:00.000",
+    "total_departures": "15417",
+    "total_passengers": "2079858",
+    "total_seats": "2601687",
+    "total_load_factor": "79.9"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2024-11-01T00:00:00.000",
+    "total_departures": "4027",
+    "total_passengers": "429630",
+    "total_seats": "553375",
+    "total_load_factor": "77.6"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2024-10-01T00:00:00.000",
+    "total_departures": "4133",
+    "total_passengers": "448539",
+    "total_seats": "566651",
+    "total_load_factor": "79.2"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2024-10-01T00:00:00.000",
+    "total_departures": "23577",
+    "total_passengers": "3219924",
+    "total_seats": "3876665",
+    "total_load_factor": "83.1"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2024-10-01T00:00:00.000",
+    "total_departures": "16263",
+    "total_passengers": "2276047",
+    "total_seats": "2782038",
+    "total_load_factor": "81.8"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2024-10-01T00:00:00.000",
+    "total_departures": "8002",
+    "total_passengers": "192785",
+    "total_seats": "261649",
+    "total_load_factor": "73.7"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2024-09-01T00:00:00.000",
+    "total_departures": "22459",
+    "total_passengers": "3076341",
+    "total_seats": "3742708",
+    "total_load_factor": "82.2"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2024-09-01T00:00:00.000",
+    "total_departures": "8096",
+    "total_passengers": "250717",
+    "total_seats": "335629",
+    "total_load_factor": "74.7"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2024-09-01T00:00:00.000",
+    "total_departures": "3956",
+    "total_passengers": "425905",
+    "total_seats": "539053",
+    "total_load_factor": "79"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2024-09-01T00:00:00.000",
+    "total_departures": "15413",
+    "total_passengers": "2128370",
+    "total_seats": "2632874",
+    "total_load_factor": "80.8"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2024-08-01T00:00:00.000",
+    "total_departures": "16035",
+    "total_passengers": "2319148",
+    "total_seats": "2786657",
+    "total_load_factor": "83.2"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2024-08-01T00:00:00.000",
+    "total_departures": "4219",
+    "total_passengers": "460414",
+    "total_seats": "575326",
+    "total_load_factor": "80"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2024-08-01T00:00:00.000",
+    "total_departures": "24260",
+    "total_passengers": "3452563",
+    "total_seats": "4068696",
+    "total_load_factor": "84.9"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2024-08-01T00:00:00.000",
+    "total_departures": "9419",
+    "total_passengers": "360258",
+    "total_seats": "453127",
+    "total_load_factor": "79.5"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2024-07-01T00:00:00.000",
+    "total_departures": "15731",
+    "total_passengers": "2377299",
+    "total_seats": "2769352",
+    "total_load_factor": "85.8"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2024-07-01T00:00:00.000",
+    "total_departures": "9535",
+    "total_passengers": "367352",
+    "total_seats": "469074",
+    "total_load_factor": "78.3"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2024-07-01T00:00:00.000",
+    "total_departures": "24488",
+    "total_passengers": "3613703",
+    "total_seats": "4103349",
+    "total_load_factor": "88.1"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2024-07-01T00:00:00.000",
+    "total_departures": "4172",
+    "total_passengers": "470941",
+    "total_seats": "570138",
+    "total_load_factor": "82.6"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2024-06-01T00:00:00.000",
+    "total_departures": "8996",
+    "total_passengers": "306456",
+    "total_seats": "429643",
+    "total_load_factor": "71.3"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2024-06-01T00:00:00.000",
+    "total_departures": "23677",
+    "total_passengers": "3573841",
+    "total_seats": "3971817",
+    "total_load_factor": "90"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2024-06-01T00:00:00.000",
+    "total_departures": "4047",
+    "total_passengers": "471485",
+    "total_seats": "554919",
+    "total_load_factor": "85"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2024-06-01T00:00:00.000",
+    "total_departures": "14134",
+    "total_passengers": "2331315",
+    "total_seats": "2562181",
+    "total_load_factor": "91"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2024-05-01T00:00:00.000",
+    "total_departures": "8208",
+    "total_passengers": "233423",
+    "total_seats": "338157",
+    "total_load_factor": "69"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2024-05-01T00:00:00.000",
+    "total_departures": "14728",
+    "total_passengers": "2197729",
+    "total_seats": "2572263",
+    "total_load_factor": "85.4"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2024-05-01T00:00:00.000",
+    "total_departures": "4137",
+    "total_passengers": "459965",
+    "total_seats": "570644",
+    "total_load_factor": "80.6"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2024-05-01T00:00:00.000",
+    "total_departures": "23559",
+    "total_passengers": "3398747",
+    "total_seats": "3934275",
+    "total_load_factor": "86.4"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2024-04-01T00:00:00.000",
+    "total_departures": "7074",
+    "total_passengers": "176066",
+    "total_seats": "255154",
+    "total_load_factor": "69"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2024-04-01T00:00:00.000",
+    "total_departures": "4062",
+    "total_passengers": "444298",
+    "total_seats": "558447",
+    "total_load_factor": "79.6"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2024-04-01T00:00:00.000",
+    "total_departures": "22273",
+    "total_passengers": "3019611",
+    "total_seats": "3679227",
+    "total_load_factor": "82.1"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2024-04-01T00:00:00.000",
+    "total_departures": "14176",
+    "total_passengers": "1958624",
+    "total_seats": "2423696",
+    "total_load_factor": "80.8"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2024-03-01T00:00:00.000",
+    "total_departures": "4270",
+    "total_passengers": "474447",
+    "total_seats": "585061",
+    "total_load_factor": "81.1"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2024-03-01T00:00:00.000",
+    "total_departures": "14346",
+    "total_passengers": "2028726",
+    "total_seats": "2398073",
+    "total_load_factor": "84.6"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2024-03-01T00:00:00.000",
+    "total_departures": "22661",
+    "total_passengers": "3176710",
+    "total_seats": "3690620",
+    "total_load_factor": "86.1"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2024-03-01T00:00:00.000",
+    "total_departures": "7137",
+    "total_passengers": "188770",
+    "total_seats": "257952",
+    "total_load_factor": "73.2"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2024-02-01T00:00:00.000",
+    "total_departures": "6087",
+    "total_passengers": "155743",
+    "total_seats": "215249",
+    "total_load_factor": "72.4"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2024-02-01T00:00:00.000",
+    "total_departures": "12631",
+    "total_passengers": "1652058",
+    "total_seats": "2078894",
+    "total_load_factor": "79.5"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2024-02-01T00:00:00.000",
+    "total_departures": "20221",
+    "total_passengers": "2634548",
+    "total_seats": "3296864",
+    "total_load_factor": "79.9"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2024-02-01T00:00:00.000",
+    "total_departures": "3824",
+    "total_passengers": "417521",
+    "total_seats": "527398",
+    "total_load_factor": "79.2"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2024-01-01T00:00:00.000",
+    "total_departures": "6698",
+    "total_passengers": "159473",
+    "total_seats": "214116",
+    "total_load_factor": "74.5"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2024-01-01T00:00:00.000",
+    "total_departures": "4049",
+    "total_passengers": "430939",
+    "total_seats": "556859",
+    "total_load_factor": "77.4"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2024-01-01T00:00:00.000",
+    "total_departures": "21466",
+    "total_passengers": "2770179",
+    "total_seats": "3519983",
+    "total_load_factor": "78.7"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2024-01-01T00:00:00.000",
+    "total_departures": "13003",
+    "total_passengers": "1682595",
+    "total_seats": "2142782",
+    "total_load_factor": "78.5"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2023-12-01T00:00:00.000",
+    "total_departures": "6970",
+    "total_passengers": "177637",
+    "total_seats": "240727",
+    "total_load_factor": "73.8"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2023-12-01T00:00:00.000",
+    "total_departures": "23039",
+    "total_passengers": "3171755",
+    "total_seats": "3793820",
+    "total_load_factor": "83.6"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2023-12-01T00:00:00.000",
+    "total_departures": "14632",
+    "total_passengers": "2069221",
+    "total_seats": "2449964",
+    "total_load_factor": "84.5"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2023-12-01T00:00:00.000",
+    "total_departures": "4054",
+    "total_passengers": "430614",
+    "total_seats": "551802",
+    "total_load_factor": "78"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2023-11-01T00:00:00.000",
+    "total_departures": "6948",
+    "total_passengers": "170187",
+    "total_seats": "234689",
+    "total_load_factor": "72.5"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2023-11-01T00:00:00.000",
+    "total_departures": "14497",
+    "total_passengers": "2019147",
+    "total_seats": "2406814",
+    "total_load_factor": "83.9"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2023-11-01T00:00:00.000",
+    "total_departures": "4056",
+    "total_passengers": "461914",
+    "total_seats": "557382",
+    "total_load_factor": "82.9"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2023-11-01T00:00:00.000",
+    "total_departures": "22157",
+    "total_passengers": "3059465",
+    "total_seats": "3639496",
+    "total_load_factor": "84.1"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2023-10-01T00:00:00.000",
+    "total_departures": "7234",
+    "total_passengers": "188566",
+    "total_seats": "263794",
+    "total_load_factor": "71.5"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2023-10-01T00:00:00.000",
+    "total_departures": "23445",
+    "total_passengers": "3219408",
+    "total_seats": "3838815",
+    "total_load_factor": "83.9"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2023-10-01T00:00:00.000",
+    "total_departures": "4266",
+    "total_passengers": "493297",
+    "total_seats": "581684",
+    "total_load_factor": "84.8"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2023-10-01T00:00:00.000",
+    "total_departures": "15293",
+    "total_passengers": "2151923",
+    "total_seats": "2562015",
+    "total_load_factor": "84"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2023-09-01T00:00:00.000",
+    "total_departures": "7671",
+    "total_passengers": "252526",
+    "total_seats": "321921",
+    "total_load_factor": "78.4"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2023-09-01T00:00:00.000",
+    "total_departures": "4184",
+    "total_passengers": "467348",
+    "total_seats": "571737",
+    "total_load_factor": "81.7"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2023-09-01T00:00:00.000",
+    "total_departures": "15053",
+    "total_passengers": "2094597",
+    "total_seats": "2538393",
+    "total_load_factor": "82.5"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2023-09-01T00:00:00.000",
+    "total_departures": "22631",
+    "total_passengers": "3035477",
+    "total_seats": "3704699",
+    "total_load_factor": "81.9"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2023-08-01T00:00:00.000",
+    "total_departures": "8699",
+    "total_passengers": "346663",
+    "total_seats": "433383",
+    "total_load_factor": "80"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2023-08-01T00:00:00.000",
+    "total_departures": "16069",
+    "total_passengers": "2261775",
+    "total_seats": "2731236",
+    "total_load_factor": "82.8"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2023-08-01T00:00:00.000",
+    "total_departures": "4367",
+    "total_passengers": "505737",
+    "total_seats": "604220",
+    "total_load_factor": "83.7"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2023-08-01T00:00:00.000",
+    "total_departures": "24541",
+    "total_passengers": "3348193",
+    "total_seats": "4047872",
+    "total_load_factor": "82.7"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2023-07-01T00:00:00.000",
+    "total_departures": "8560",
+    "total_passengers": "353127",
+    "total_seats": "437303",
+    "total_load_factor": "80.8"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2023-07-01T00:00:00.000",
+    "total_departures": "16023",
+    "total_passengers": "2360900",
+    "total_seats": "2720962",
+    "total_load_factor": "86.8"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2023-07-01T00:00:00.000",
+    "total_departures": "24498",
+    "total_passengers": "3549244",
+    "total_seats": "4052847",
+    "total_load_factor": "87.6"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2023-07-01T00:00:00.000",
+    "total_departures": "4428",
+    "total_passengers": "521390",
+    "total_seats": "608880",
+    "total_load_factor": "85.6"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2023-06-01T00:00:00.000",
+    "total_departures": "7934",
+    "total_passengers": "293859",
+    "total_seats": "391664",
+    "total_load_factor": "75"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2023-06-01T00:00:00.000",
+    "total_departures": "23293",
+    "total_passengers": "3462206",
+    "total_seats": "3840022",
+    "total_load_factor": "90.2"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2023-06-01T00:00:00.000",
+    "total_departures": "4360",
+    "total_passengers": "522555",
+    "total_seats": "597379",
+    "total_load_factor": "87.5"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2023-06-01T00:00:00.000",
+    "total_departures": "15311",
+    "total_passengers": "2359685",
+    "total_seats": "2598647",
+    "total_load_factor": "90.8"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2023-05-01T00:00:00.000",
+    "total_departures": "6856",
+    "total_passengers": "219486",
+    "total_seats": "297698",
+    "total_load_factor": "73.7"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2023-05-01T00:00:00.000",
+    "total_departures": "15416",
+    "total_passengers": "2144264",
+    "total_seats": "2516562",
+    "total_load_factor": "85.2"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2023-05-01T00:00:00.000",
+    "total_departures": "23212",
+    "total_passengers": "3248505",
+    "total_seats": "3805169",
+    "total_load_factor": "85.4"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2023-05-01T00:00:00.000",
+    "total_departures": "4354",
+    "total_passengers": "505693",
+    "total_seats": "599692",
+    "total_load_factor": "84.3"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2023-04-01T00:00:00.000",
+    "total_departures": "6310",
+    "total_passengers": "164978",
+    "total_seats": "235100",
+    "total_load_factor": "70.2"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2023-04-01T00:00:00.000",
+    "total_departures": "4080",
+    "total_passengers": "486316",
+    "total_seats": "561295",
+    "total_load_factor": "86.6"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2023-04-01T00:00:00.000",
+    "total_departures": "21603",
+    "total_passengers": "2954252",
+    "total_seats": "3486152",
+    "total_load_factor": "84.7"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2023-04-01T00:00:00.000",
+    "total_departures": "13903",
+    "total_passengers": "1915862",
+    "total_seats": "2270844",
+    "total_load_factor": "84.4"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2023-03-01T00:00:00.000",
+    "total_departures": "4212",
+    "total_passengers": "489166",
+    "total_seats": "578456",
+    "total_load_factor": "84.6"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2023-03-01T00:00:00.000",
+    "total_departures": "21980",
+    "total_passengers": "3008232",
+    "total_seats": "3524940",
+    "total_load_factor": "85.3"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2023-03-01T00:00:00.000",
+    "total_departures": "6672",
+    "total_passengers": "184896",
+    "total_seats": "242929",
+    "total_load_factor": "76.1"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2023-03-01T00:00:00.000",
+    "total_departures": "14031",
+    "total_passengers": "1887369",
+    "total_seats": "2296341",
+    "total_load_factor": "82.2"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2023-02-01T00:00:00.000",
+    "total_departures": "5434",
+    "total_passengers": "148749",
+    "total_seats": "217193",
+    "total_load_factor": "68.5"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2023-02-01T00:00:00.000",
+    "total_departures": "19079",
+    "total_passengers": "2428024",
+    "total_seats": "3078219",
+    "total_load_factor": "78.9"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2023-02-01T00:00:00.000",
+    "total_departures": "3709",
+    "total_passengers": "410459",
+    "total_seats": "510617",
+    "total_load_factor": "80.4"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2023-02-01T00:00:00.000",
+    "total_departures": "12198",
+    "total_passengers": "1517762",
+    "total_seats": "1988239",
+    "total_load_factor": "76.3"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2023-01-01T00:00:00.000",
+    "total_departures": "21154",
+    "total_passengers": "2635177",
+    "total_seats": "3432269",
+    "total_load_factor": "76.8"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2023-01-01T00:00:00.000",
+    "total_departures": "5953",
+    "total_passengers": "163985",
+    "total_seats": "245040",
+    "total_load_factor": "66.9"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2023-01-01T00:00:00.000",
+    "total_departures": "4061",
+    "total_passengers": "430839",
+    "total_seats": "565485",
+    "total_load_factor": "76.2"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2023-01-01T00:00:00.000",
+    "total_departures": "12993",
+    "total_passengers": "1559766",
+    "total_seats": "2160794",
+    "total_load_factor": "72.2"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2022-12-01T00:00:00.000",
+    "total_departures": "6327",
+    "total_passengers": "177292",
+    "total_seats": "232160",
+    "total_load_factor": "76.4"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2022-12-01T00:00:00.000",
+    "total_departures": "21332",
+    "total_passengers": "2904253",
+    "total_seats": "3398808",
+    "total_load_factor": "85.4"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2022-12-01T00:00:00.000",
+    "total_departures": "4113",
+    "total_passengers": "458244",
+    "total_seats": "571322",
+    "total_load_factor": "80.2"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2022-12-01T00:00:00.000",
+    "total_departures": "13102",
+    "total_passengers": "1867230",
+    "total_seats": "2182407",
+    "total_load_factor": "85.6"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2022-11-01T00:00:00.000",
+    "total_departures": "21121",
+    "total_passengers": "2813243",
+    "total_seats": "3317672",
+    "total_load_factor": "84.8"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2022-11-01T00:00:00.000",
+    "total_departures": "4383",
+    "total_passengers": "494975",
+    "total_seats": "613130",
+    "total_load_factor": "80.7"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2022-11-01T00:00:00.000",
+    "total_departures": "13027",
+    "total_passengers": "1793707",
+    "total_seats": "2125881",
+    "total_load_factor": "84.4"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2022-11-01T00:00:00.000",
+    "total_departures": "6548",
+    "total_passengers": "167374",
+    "total_seats": "230060",
+    "total_load_factor": "72.8"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2022-10-01T00:00:00.000",
+    "total_departures": "6944",
+    "total_passengers": "188952",
+    "total_seats": "254149",
+    "total_load_factor": "74.3"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2022-10-01T00:00:00.000",
+    "total_departures": "21598",
+    "total_passengers": "2904140",
+    "total_seats": "3399431",
+    "total_load_factor": "85.4"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2022-10-01T00:00:00.000",
+    "total_departures": "4519",
+    "total_passengers": "525898",
+    "total_seats": "633188",
+    "total_load_factor": "83.1"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2022-10-01T00:00:00.000",
+    "total_departures": "14106",
+    "total_passengers": "1931772",
+    "total_seats": "2272945",
+    "total_load_factor": "85"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2022-09-01T00:00:00.000",
+    "total_departures": "21508",
+    "total_passengers": "2801951",
+    "total_seats": "3348055",
+    "total_load_factor": "83.7"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2022-09-01T00:00:00.000",
+    "total_departures": "7324",
+    "total_passengers": "239940",
+    "total_seats": "313553",
+    "total_load_factor": "76.5"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2022-09-01T00:00:00.000",
+    "total_departures": "4344",
+    "total_passengers": "492555",
+    "total_seats": "608141",
+    "total_load_factor": "81"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2022-09-01T00:00:00.000",
+    "total_departures": "13964",
+    "total_passengers": "1905072",
+    "total_seats": "2257065",
+    "total_load_factor": "84.4"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2022-08-01T00:00:00.000",
+    "total_departures": "14701",
+    "total_passengers": "1949403",
+    "total_seats": "2358919",
+    "total_load_factor": "82.6"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2022-08-01T00:00:00.000",
+    "total_departures": "8301",
+    "total_passengers": "329512",
+    "total_seats": "434536",
+    "total_load_factor": "75.8"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2022-08-01T00:00:00.000",
+    "total_departures": "4411",
+    "total_passengers": "503591",
+    "total_seats": "616786",
+    "total_load_factor": "81.6"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2022-08-01T00:00:00.000",
+    "total_departures": "23078",
+    "total_passengers": "2986437",
+    "total_seats": "3552279",
+    "total_load_factor": "84.1"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2022-07-01T00:00:00.000",
+    "total_departures": "4392",
+    "total_passengers": "509171",
+    "total_seats": "612228",
+    "total_load_factor": "83.2"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2022-07-01T00:00:00.000",
+    "total_departures": "8569",
+    "total_passengers": "335331",
+    "total_seats": "446672",
+    "total_load_factor": "75.1"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2022-07-01T00:00:00.000",
+    "total_departures": "23527",
+    "total_passengers": "3115842",
+    "total_seats": "3618323",
+    "total_load_factor": "86.1"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2022-07-01T00:00:00.000",
+    "total_departures": "14834",
+    "total_passengers": "2011216",
+    "total_seats": "2387510",
+    "total_load_factor": "84.2"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2022-06-01T00:00:00.000",
+    "total_departures": "8429",
+    "total_passengers": "284558",
+    "total_seats": "397434",
+    "total_load_factor": "71.6"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2022-06-01T00:00:00.000",
+    "total_departures": "22551",
+    "total_passengers": "3071108",
+    "total_seats": "3415320",
+    "total_load_factor": "89.9"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2022-06-01T00:00:00.000",
+    "total_departures": "4293",
+    "total_passengers": "501845",
+    "total_seats": "599868",
+    "total_load_factor": "83.7"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2022-06-01T00:00:00.000",
+    "total_departures": "14319",
+    "total_passengers": "2058185",
+    "total_seats": "2271783",
+    "total_load_factor": "90.6"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2022-05-01T00:00:00.000",
+    "total_departures": "22787",
+    "total_passengers": "2931315",
+    "total_seats": "3430334",
+    "total_load_factor": "85.5"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2022-05-01T00:00:00.000",
+    "total_departures": "7254",
+    "total_passengers": "214793",
+    "total_seats": "300119",
+    "total_load_factor": "71.6"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2022-05-01T00:00:00.000",
+    "total_departures": "4397",
+    "total_passengers": "499027",
+    "total_seats": "608493",
+    "total_load_factor": "82"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2022-05-01T00:00:00.000",
+    "total_departures": "13615",
+    "total_passengers": "1793713",
+    "total_seats": "2086544",
+    "total_load_factor": "86"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2022-04-01T00:00:00.000",
+    "total_departures": "6751",
+    "total_passengers": "167627",
+    "total_seats": "251319",
+    "total_load_factor": "66.7"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2022-04-01T00:00:00.000",
+    "total_departures": "21445",
+    "total_passengers": "2712442",
+    "total_seats": "3214512",
+    "total_load_factor": "84.4"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2022-04-01T00:00:00.000",
+    "total_departures": "4166",
+    "total_passengers": "480708",
+    "total_seats": "571188",
+    "total_load_factor": "84.2"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2022-04-01T00:00:00.000",
+    "total_departures": "12971",
+    "total_passengers": "1647832",
+    "total_seats": "1952691",
+    "total_load_factor": "84.4"
+  },
+  {
+    "origin_airport_code": "SNA",
+    "origin_airport_name": "John Wayne Airport-Orange County (SNA)",
+    "reporting_month": "2022-03-01T00:00:00.000",
+    "total_departures": "4106",
+    "total_passengers": "461791",
+    "total_seats": "564674",
+    "total_load_factor": "81.8"
+  },
+  {
+    "origin_airport_code": "LAX",
+    "origin_airport_name": "Los Angeles International (LAX)",
+    "reporting_month": "2022-03-01T00:00:00.000",
+    "total_departures": "21786",
+    "total_passengers": "2612733",
+    "total_seats": "3193162",
+    "total_load_factor": "81.8"
+  },
+  {
+    "origin_airport_code": "ANC",
+    "origin_airport_name": "Ted Stevens Anchorage International (ANC)",
+    "reporting_month": "2022-03-01T00:00:00.000",
+    "total_departures": "6829",
+    "total_passengers": "181154",
+    "total_seats": "240819",
+    "total_load_factor": "75.2"
+  },
+  {
+    "origin_airport_code": "SFO",
+    "origin_airport_name": "San Francisco International (SFO)",
+    "reporting_month": "2022-03-01T00:00:00.000",
+    "total_departures": "12678",
+    "total_passengers": "1521880",
+    "total_seats": "1876571",
+    "total_load_factor": "81.1"
+  }
+]

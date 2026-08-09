@@ -1,0 +1,264 @@
+{
+  "metric": "new_england_terminal_expansion_screening",
+  "current_period_start": "2025-05",
+  "current_period_end": "2026-04",
+  "comparison_period_start": "2024-05",
+  "comparison_period_end": "2025-04",
+  "ranking": [
+    {
+      "airport_code": "PWM",
+      "airport_name": "Portland International Jetport (PWM)",
+      "previous_period": {
+        "months": 12,
+        "passengers": 1242637,
+        "seats": 1514383,
+        "departures": 14646,
+        "weighted_load_factor": 82.06
+      },
+      "current_period": {
+        "months": 12,
+        "passengers": 1277351,
+        "seats": 1543604,
+        "departures": 14841,
+        "weighted_load_factor": 82.75
+      },
+      "passenger_growth_percentage": 2.79,
+      "data_quality": "complete_24_months",
+      "component_scores": {
+        "weighted_load_factor": 85.71,
+        "passenger_growth": 71.43,
+        "passenger_scale": 57.14
+      },
+      "opportunity_score": 74.28,
+      "rank": 1
+    },
+    {
+      "airport_code": "HVN",
+      "airport_name": "Tweed New Haven (HVN)",
+      "previous_period": {
+        "months": 12,
+        "passengers": 665451,
+        "seats": 881987,
+        "departures": 5185,
+        "weighted_load_factor": 75.45
+      },
+      "current_period": {
+        "months": 12,
+        "passengers": 732816,
+        "seats": 948744,
+        "departures": 5877,
+        "weighted_load_factor": 77.24
+      },
+      "passenger_growth_percentage": 10.12,
+      "data_quality": "complete_24_months",
+      "component_scores": {
+        "weighted_load_factor": 28.57,
+        "passenger_growth": 100.0,
+        "passenger_scale": 42.86
+      },
+      "opportunity_score": 60.0,
+      "rank": 2
+    },
+    {
+      "airport_code": "BTV",
+      "airport_name": "Patrick Leahy Burlington International (BTV)",
+      "previous_period": {
+        "months": 12,
+        "passengers": 702993,
+        "seats": 911807,
+        "departures": 10146,
+        "weighted_load_factor": 77.1
+      },
+      "current_period": {
+        "months": 12,
+        "passengers": 702627,
+        "seats": 846436,
+        "departures": 9847,
+        "weighted_load_factor": 83.01
+      },
+      "passenger_growth_percentage": -0.05,
+      "data_quality": "complete_24_months",
+      "component_scores": {
+        "weighted_load_factor": 100.0,
+        "passenger_growth": 28.57,
+        "passenger_scale": 28.57
+      },
+      "opportunity_score": 57.14,
+      "rank": 3
+    },
+    {
+      "airport_code": "PVD",
+      "airport_name": "Rhode Island Tf Green International (PVD)",
+      "previous_period": {
+        "months": 12,
+        "passengers": 2075599,
+        "seats": 2662525,
+        "departures": 21953,
+        "weighted_load_factor": 77.96
+      },
+      "current_period": {
+        "months": 12,
+        "passengers": 2095785,
+        "seats": 2696428,
+        "departures": 22002,
+        "weighted_load_factor": 77.72
+      },
+      "passenger_growth_percentage": 0.97,
+      "data_quality": "complete_24_months",
+      "component_scores": {
+        "weighted_load_factor": 42.86,
+        "passenger_growth": 57.14,
+        "passenger_scale": 71.43
+      },
+      "opportunity_score": 54.29,
+      "rank": 4
+    },
+    {
+      "airport_code": "BOS",
+      "airport_name": "Logan International (BOS)",
+      "previous_period": {
+        "months": 12,
+        "passengers": 21488856,
+        "seats": 26177385,
+        "departures": 193871,
+        "weighted_load_factor": 82.09
+      },
+      "current_period": {
+        "months": 12,
+        "passengers": 20983745,
+        "seats": 25675310,
+        "departures": 189745,
+        "weighted_load_factor": 81.73
+      },
+      "passenger_growth_percentage": -2.35,
+      "data_quality": "complete_24_months",
+      "component_scores": {
+        "weighted_load_factor": 71.43,
+        "passenger_growth": 0.0,
+        "passenger_scale": 100.0
+      },
+      "opportunity_score": 48.57,
+      "rank": 5
+    },
+    {
+      "airport_code": "BDL",
+      "airport_name": "Bradley International (BDL)",
+      "previous_period": {
+        "months": 12,
+        "passengers": 3328779,
+        "seats": 4156275,
+        "departures": 31316,
+        "weighted_load_factor": 80.09
+      },
+      "current_period": {
+        "months": 12,
+        "passengers": 3251263,
+        "seats": 3996642,
+        "departures": 30929,
+        "weighted_load_factor": 81.35
+      },
+      "passenger_growth_percentage": -2.33,
+      "data_quality": "complete_24_months",
+      "component_scores": {
+        "weighted_load_factor": 57.14,
+        "passenger_growth": 14.29,
+        "passenger_scale": 85.71
+      },
+      "opportunity_score": 45.71,
+      "rank": 6
+    },
+    {
+      "airport_code": "MHT",
+      "airport_name": "Manchester Boston Regional (MHT)",
+      "previous_period": {
+        "months": 12,
+        "passengers": 652430,
+        "seats": 852049,
+        "departures": 9982,
+        "weighted_load_factor": 76.57
+      },
+      "current_period": {
+        "months": 12,
+        "passengers": 683107,
+        "seats": 905020,
+        "departures": 10633,
+        "weighted_load_factor": 75.48
+      },
+      "passenger_growth_percentage": 4.7,
+      "data_quality": "complete_24_months",
+      "component_scores": {
+        "weighted_load_factor": 14.29,
+        "passenger_growth": 85.71,
+        "passenger_scale": 14.29
+      },
+      "opportunity_score": 42.86,
+      "rank": 7
+    },
+    {
+      "airport_code": "ORH",
+      "airport_name": "Worcester Regional (ORH)",
+      "previous_period": {
+        "months": 12,
+        "passengers": 111735,
+        "seats": 170618,
+        "departures": 1417,
+        "weighted_load_factor": 65.49
+      },
+      "current_period": {
+        "months": 12,
+        "passengers": 112654,
+        "seats": 160174,
+        "departures": 1420,
+        "weighted_load_factor": 70.33
+      },
+      "passenger_growth_percentage": 0.82,
+      "data_quality": "complete_24_months",
+      "component_scores": {
+        "weighted_load_factor": 0.0,
+        "passenger_growth": 42.86,
+        "passenger_scale": 0.0
+      },
+      "opportunity_score": 17.14,
+      "rank": 8
+    }
+  ],
+  "methodology": {
+    "score_range": "0-100 relative to the scoped New England cohort",
+    "weights": {
+      "weighted_load_factor": 0.4,
+      "passenger_growth": 0.4,
+      "passenger_scale": 0.2
+    },
+    "normalization": "Tie-aware percentile rank within the eight-airport cohort",
+    "passenger_scale_transform": "log10 before percentile ranking"
+  },
+  "scope": {
+    "included_airports": [
+      "BOS",
+      "BDL",
+      "PVD",
+      "MHT",
+      "PWM",
+      "BTV",
+      "ORH",
+      "HVN"
+    ],
+    "definition": "Eight selected commercial airports covering all six New England states",
+    "excluded": "Smaller and strongly seasonal airports are outside the 24-hour MVP cohort"
+  },
+  "source": {
+    "publisher": "U.S. Bureau of Transportation Statistics",
+    "dataset": "T-100 Segment Summary By Origin Airport",
+    "dataset_id": "r495-tyji",
+    "access_method": "Public Socrata API",
+    "request_url": "https://data.bts.gov/resource/r495-tyji.json?%24select=origin_airport_code%2Corigin_airport_name%2Creporting_month%2Ctotal_departures%2Ctotal_passengers%2Ctotal_seats&%24where=origin_airport_code+in+%28%27BOS%27%2C%27BDL%27%2C%27PVD%27%2C%27MHT%27%2C%27PWM%27%2C%27BTV%27%2C%27ORH%27%2C%27HVN%27%29+AND+reporting_month+%3E%3D+%272024-05-01T00%3A00%3A00.000%27+AND+reporting_month+%3C%3D+%272026-04-01T00%3A00%3A00.000%27&%24order=origin_airport_code%2Creporting_month&%24limit=1000"
+  },
+  "assumptions": [
+    "The score is a relative screening score, not investment profitability.",
+    "Load factor is a demand-pressure proxy, not direct terminal utilization.",
+    "Passenger growth compares two complete rolling 12-month periods.",
+    "Passenger scale receives a smaller weight so BOS does not dominate solely by size.",
+    "A high score requires analyst review and additional forecast and infrastructure data."
+  ],
+  "processed_at": "2026-08-09T17:47:56.872299+00:00"
+}
